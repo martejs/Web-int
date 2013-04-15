@@ -53,6 +53,7 @@ public class TextFileIndexer {
 		//=========================================================
 		IndexReader reader = DirectoryReader.open(FSDirectory.open(new File(indexLocation)));
 		IndexSearcher searcher = new IndexSearcher(reader);
+		
 		TopScoreDocCollector collector = TopScoreDocCollector.create(5, true);
 	}
 	
