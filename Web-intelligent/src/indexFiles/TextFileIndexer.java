@@ -1,4 +1,4 @@
-package Index;
+package indexFiles;
 
 
 import java.io.File;
@@ -29,8 +29,8 @@ import org.apache.lucene.util.Version;
 public class TextFileIndexer {
 	
 	private static StandardAnalyzer analyzer = new StandardAnalyzer(Version.LUCENE_42);
-	private static String indexLocation = "index/";
-	private static String journal = "journal/";
+	private static String indexLocation = "Index/";
+	private static String journal = "Journal/";
 	
 	private IndexWriter writer;
 	private List<File> queue = new ArrayList<File>();
