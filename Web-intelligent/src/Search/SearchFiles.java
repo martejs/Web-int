@@ -29,6 +29,9 @@ public class SearchFiles {
 	
 	public SearchFiles() throws IOException{
 		
+		
+		System.out.println(new File(INDEX_DIRECTORY).getAbsolutePath());
+		
 		directory = FSDirectory.open(new File(INDEX_DIRECTORY));
 		indexReader = DirectoryReader.open(directory); //IndexReader.open(directory);
 		indexSearcher = new IndexSearcher(indexReader);
@@ -40,7 +43,7 @@ public class SearchFiles {
 	
 	public static void main(String[] args) throws Exception {
 		
-		String searchString = "kvalm";
+		String searchString = "bekken";
 		int topHits = 5;
 		
 		
@@ -65,7 +68,7 @@ public class SearchFiles {
 		System.out.println("Searching for '" + searchString + "'");
 
 		Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_42);
-		QueryParser queryParser = new QueryParser(Version.LUCENE_42, "", analyzer);
+		QueryParser queryParser = new QueryParser(Version.LUCENE_42, "contents", analyzer);
 		Query query = queryParser.parse(searchString);
 		//Query q = new StandardQueryParser()
 		TopDocs topDocs = indexSearcher.search(query, topHits);
