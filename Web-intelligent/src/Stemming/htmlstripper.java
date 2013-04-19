@@ -4,7 +4,7 @@ public class htmlstripper {
 	
 	
 	
-	
+	//hallo
 
 	
 	public String removeStopWords(String fil){
