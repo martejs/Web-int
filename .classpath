@@ -8,5 +8,6 @@
 	<classpathentry kind="lib" path="lib/lucene-demo-4.2.1.jar"/>
 	<classpathentry kind="lib" path="lib/lucene-queryparser-4.2.1.jar"/>
 	<classpathentry kind="lib" path="lib/lukeall-4.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/jena-core-2.10.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
