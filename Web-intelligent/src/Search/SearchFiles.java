@@ -51,7 +51,7 @@ public class SearchFiles {
 	public static void main(String[] args) throws Exception {
 
 
-		filename = "/Users/mathilof/Documents/workspace/Web-int/Caser/case1.txt";
+		filename = "/Users/marte/Documents/workspace/Web-int/Caser/case1.txt";
 		file = new File(filename);
 
 
