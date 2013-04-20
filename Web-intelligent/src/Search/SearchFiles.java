@@ -50,28 +50,36 @@ public class SearchFiles {
 
 	public static void main(String[] args) throws Exception {
 
-
-		filename = "Caser/case1.txt";
+		int tall = 1;
+		filename = "Caser/case" + tall + ".txt";
 		file = new File(filename);
 
-
-		Scanner scanner = new Scanner(file);;
-		String searchString = "";
-
-		while(scanner.hasNextLine()){
-
-			searchString = scanner.nextLine();
-			int topHits = 5;
-
-
-			SearchFiles searchObject = new SearchFiles();
-
-			searchString = queryPreprocess(searchString);
-
-			searchIndex(searchString, topHits);
+		
+		for (int i = 0; i < 8; i++){
+			Scanner scanner = new Scanner(file);
+			
+			System.out.println(filename);
+			
+			String searchString = "";
+			
+			while(scanner.hasNextLine()){
+				
+				searchString = scanner.nextLine();
+				int topHits = 5;
+				
+				
+				SearchFiles searchObject = new SearchFiles();
+				
+				searchString = queryPreprocess(searchString);
+				
+				searchIndex(searchString, topHits);
+			}
+			
+			tall++;
+			filename = "Caser/case" + tall + ".txt";
+			file = new File(filename);
+			scanner.close();
 		}
-
-		scanner.close();
 
 	}
 
@@ -118,6 +126,7 @@ public class SearchFiles {
 	public static String queryPreprocess(String query){
 
 		query = query.toLowerCase();
+		
 		String[] norwegianStopWords = {"alle", "andre", "at", "av", "bare", "begge", "ble", "bli", "blir", "blitt", "bort", "bra", "bruke", "bŒde", "da", "de", "deg", "dem",
 				"den", "denne", "der", "dere", "deres", "det", "dette", "din", "disse", "dit", "ditt", "du", "eller", "en", "ene", "eneste", "enhver", "enn", "er",
 				"et", "ett","etter", "for", "fordi", "forsøke", "fra", "fram", "f¿r", "f¿rst", "fŒ", "gjorde", "gj¿re", "god", "gŒ", "ha", "hadde", "han", "hans",
@@ -135,6 +144,7 @@ public class SearchFiles {
 		}
 		query = query.replaceAll(" alle ", "");
 
+		query = query.replaceAll("/", "");
 
 		return query;
 

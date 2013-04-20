@@ -1,13 +1,6 @@
-Case 3
-
-Hanne gÃ¥r i 9. klasse i ungdomsskolen, har to yngre sÃ¸sken. Hun har tidligere ikke vÃ¦rt syk av betydning, aldri vÃ¦rt hospitalisert. 
-
-En morgen i februar klager Hanne over at hun fÃ¸ler seg syk, litt vondt i halsen, noe hodepine og smerter i hele kroppen og har temperatur pÃ¥ 38,7 Â°C. Da det er en del influensa i distriktet tror foreldrene at det er det Hanne holder pÃ¥ Ã¥ utvikle. Hun holder seg hjemme fra skolen og blir dÃ¥rligere utover dagen. Da far kommer hjem ved 16-tiden, er Hanne litt omtÃ¥ket, ligger i en dÃ¸s og temperaturen mÃ¥les til 40,9 Â°C. 
-
-Ved undersÃ¸kelsen finner legen at hun er noe desorientert, noe nakkestiv og at hun spredt pÃ¥ kroppen har noen petekkier ("smÃ¥blÃ¸dninger" i huden). Blodtrykket mÃ¥les til 105/70 mm Hg. Hanne innlegges umiddelbart pÃ¥ Barneklinikken under mistanke om "smittsom hjernehinnebetennelse".
-
-I mottagelsen pÃ¥ sykehuset blir Hanne undersÃ¸kt av vakthavende lege, det henges opp intravenÃ¸s vÃ¦sketillfÃ¸rsel, blodprÃ¸ves takes og det gjÃ¸res spinalpunksjon. SpinalvÃ¦sken er tydelig blakket. Etter at 2 blodkulturer er tatt, startes det umiddelbart med intravenÃ¸s antibiotika behandling med Penicillin G og Kloramfenikol.
-
-Et par timer etter innkomsten fÃ¥r Hanne et par minutters krampeanfall, som behandles med diazepam intravenÃ¸st. Det besluttes at Hanne skal intuberes og legges pÃ¥ respirator.
-
-Dagen etter innkomst rapporterer mikrobiologisk laboratorium om funn av Gram-negative diplokokker i spinalvÃ¦ske og blodkulturer, og det kommer sÃ¥ oppvekst av Neisseria meningitidis serogruppe C. Hannes to yngre sÃ¸sken fÃ¥r penicillintabletter til bruk i Ã©n uke (Helsedirektoratets forskrift). Kommunelegen setter sÃ¥ igang vaksinasjon av hele Hannes familie, nÃ¦re venner og skoleklasse.
+Hanne gŒr i 9. klasse i ungdomsskolen, har to yngre s¿sken. Hun har tidligere ikke v¾rt syk av betydning, aldri v¾rt hospitalisert. 
+En morgen i februar klager Hanne over at hun f¿ler seg syk, litt vondt i halsen, noe hodepine og smerter i hele kroppen og har temperatur pŒ 38,7 ¡C. Da det er en del influensa i distriktet tror foreldrene at det er det Hanne holder pŒ Œ utvikle. Hun holder seg hjemme fra skolen og blir dŒrligere utover dagen. Da far kommer hjem ved 16-tiden, er Hanne litt omtŒket, ligger i en d¿s og temperaturen mŒles til 40,9 ¡C. 
+Ved unders¿kelsen finner legen at hun er noe desorientert, noe nakkestiv og at hun spredt pŒ kroppen har noen petekkier ("smŒbl¿dninger" i huden). Blodtrykket mŒles til 105/70 mm Hg. Hanne innlegges umiddelbart pŒ Barneklinikken under mistanke om "smittsom hjernehinnebetennelse".
+I mottagelsen pŒ sykehuset blir Hanne unders¿kt av vakthavende lege, det henges opp intraven¿s v¾sketillf¿rsel, blodpr¿ves takes og det gj¿res spinalpunksjon. Spinalv¾sken er tydelig blakket. Etter at 2 blodkulturer er tatt, startes det umiddelbart med intraven¿s antibiotika behandling med Penicillin G og Kloramfenikol.
+Et par timer etter innkomsten fŒr Hanne et par minutters krampeanfall, som behandles med diazepam intraven¿st. Det besluttes at Hanne skal intuberes og legges pŒ respirator.
+Dagen etter innkomst rapporterer mikrobiologisk laboratorium om funn av Gram-negative diplokokker i spinalv¾ske og blodkulturer, og det kommer sŒ oppvekst av Neisseria meningitidis serogruppe C. Hannes to yngre s¿sken fŒr penicillintabletter til bruk i n uke (Helsedirektoratets forskrift). Kommunelegen setter sŒ igang vaksinasjon av hele Hannes familie, n¾re venner og skoleklasse.
