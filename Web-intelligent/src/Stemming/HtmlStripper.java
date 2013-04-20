@@ -12,7 +12,7 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class htmlstripper {
+public class HtmlStripper {
 	
 	
 
@@ -31,7 +31,7 @@ public class htmlstripper {
 	 * @param allsmall String
 	 * @param xmlP XMLParser
 	 */
-	public htmlstripper(String url, String sBoundary, String pBoundary, String allsmall, XMLParse xmlP){
+	public HtmlStripper(String url, String sBoundary, String pBoundary, String allsmall, XMLParse xmlP){
 		this.url = url;
 		this.pBoundary = pBoundary;
 		this.sBoundary = sBoundary;
@@ -52,7 +52,7 @@ public class htmlstripper {
 	 * @param rootname String
 	 * @param url String
 	 */
-	public htmlstripper(String filename,   XMLParse xmlP, String sBoundary, String pBoundary, String name){
+	public HtmlStripper(String filename,   XMLParse xmlP, String sBoundary, String pBoundary, String name){
 		File file = new File(filename);
 		this.url = file.getName();
 		this.xmlP = xmlP;
@@ -62,7 +62,7 @@ public class htmlstripper {
 			System.out.println("Filen er en directory");
 			files = file.listFiles();//henter filene som er i den katalogen
 			for(int i = 0; i<files.length; i++){
-				new htmlstripper(files[i].getAbsolutePath(),  xmlP, sBoundary, pBoundary, file.getName());
+				new HtmlStripper(files[i].getAbsolutePath(),  xmlP, sBoundary, pBoundary, file.getName());
 			}
 		}
 		else{//hvis ikke en katalog
@@ -171,11 +171,11 @@ public class htmlstripper {
 				"vite", "v¾re", "v¾rt", "vŒr" };
 		
 		for (int i = 0; i < stoppOrd.length; i++) {
-			fil = stoppOrd[i];
+			fil = fil.replaceAll(" "+ stoppOrd + " ", "");
 			
 		}
-		
-		
+		fil = fil.replaceAll("alle", " ");
+	
 		return fil;
 		
 	}

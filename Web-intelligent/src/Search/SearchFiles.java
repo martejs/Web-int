@@ -1,6 +1,7 @@
 package Search;
 
 import java.io.File;
+import Stemming.HtmlStripper;
 import java.io.IOException;
 import java.util.List;
 
@@ -19,6 +20,8 @@ import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Version;
+
+import Stemming.HtmlStripper;
 
 public class SearchFiles {
 
@@ -63,6 +66,7 @@ public class SearchFiles {
 	 * @throws ParseException
 	 */
 	public static void searchIndex(String searchString, int topHits) throws IOException, ParseException {
+		 File file;
 		
 		
 		System.out.println("Searching for '" + searchString + "'");

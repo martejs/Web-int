@@ -19,7 +19,7 @@ public class XMLParse {
 	private int i = 0;
 	private boolean isFileMade = false;
 	private File oldFile = new File("tokenized.xml");
-	htmlstripper hs ;
+	HtmlStripper hs ;
 	private boolean fromUrl;
 
 	/**
@@ -66,11 +66,11 @@ public class XMLParse {
 		if(fromUrl){
 			ArrayList uriList = parseUri(urls);
 			for(int i = 0; i < uriList.size(); i++){
-				hs = new htmlstripper((String)uriList.get(i), sBoundary, pBoundary, aSmall, this);
+				hs = new HtmlStripper((String)uriList.get(i), sBoundary, pBoundary, aSmall, this);
 			}
 		}
 		else{
-			hs = new htmlstripper(directoryText, this, sBoundary, pBoundary, "" ); // Denne kjøres dersom det skal hentes fra fil
+			hs = new HtmlStripper(directoryText, this, sBoundary, pBoundary, "" ); // Denne kjøres dersom det skal hentes fra fil
 		}
 	}
 
