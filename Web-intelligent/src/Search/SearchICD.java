@@ -26,7 +26,7 @@ public class SearchICD {
 	private IndexReader icdReader;
 	private Directory directory;
 	private static IndexSearcher indexSearcher;
-	public static String ICD_DIRECTORY = "ICD/";
+	public static String ICD_DIRECTORY = "ICDIndex/";
 
 	private static String filename;
 	private static File file;
