@@ -40,7 +40,10 @@ public class parseICD {
 					do{
 						linje = br.readLine();
 						if(linje.contains("<rdfs:label")){
-							label = linje.substring(linje.indexOf(">") + 1, linje.indexOf("</rdfs:label>"));
+							try {
+								label = linje.substring(linje.indexOf(">") + 1, linje.indexOf("</rdfs:label>"));
+							}catch ( StringIndexOutOfBoundsException e ){}
+
 						}
 
 						else if(linje.contains("<code_formatted")){
