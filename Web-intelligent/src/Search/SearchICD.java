@@ -34,7 +34,7 @@ public class SearchICD {
 	public SearchICD() throws IOException{
 
 
-//		System.out.println(new File(INDEX_DIRECTORY).getAbsolutePath());
+		System.out.println(new File(ICD_DIRECTORY).getAbsolutePath());
 
 		directory = FSDirectory.open(new File(ICD_DIRECTORY));
 		icdReader = DirectoryReader.open(directory); //IndexReader.open(directory);
