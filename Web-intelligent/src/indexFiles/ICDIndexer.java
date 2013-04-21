@@ -46,7 +46,7 @@ public class ICDIndexer {
 			
 			createIndexDir();
 			
-			TextFileIndexer indexer = new TextFileIndexer(indexLocation);
+			ICDIndexer indexer = new ICDIndexer(indexLocation);
 			indexer.indexFileOrDirectory(ICD);
 
 			//===================================================
