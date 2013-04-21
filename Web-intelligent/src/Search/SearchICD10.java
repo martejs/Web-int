@@ -45,6 +45,7 @@ public class SearchICD10 {
 
 		for(int i = 0; i < query.length(); i++){
 			Scanner scan = new Scanner(file);
+			
 			while (scan.hasNextLine()){
 				icd10 = scan.nextLine();
 
