@@ -66,7 +66,7 @@ public class SearchICD {
 				
 				SearchFiles searchObject = new SearchFiles();
 				
-				searchString = queryPreprocess(searchString);
+//				searchString = queryPreprocess(searchString);
 				
 				searchIndex(searchString, topHits);
 			}

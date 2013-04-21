@@ -1,7 +1,6 @@
 package indexFiles;
 
 import java.io.File;
-import java.io.FileFilter;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -21,6 +20,7 @@ import org.apache.lucene.search.TopScoreDocCollector;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Version;
 
+
 public class ICDIndexer {
 
 
@@ -37,8 +37,12 @@ public class ICDIndexer {
 		
 		private IndexWriter writer;
 		private List<File> queue = new ArrayList<File>();
+		
 
 		public static void main(String[] args) throws IOException {
+			
+			
+			
 			
 			createIndexDir();
 			
@@ -152,7 +156,8 @@ public class ICDIndexer {
 		 */
 		public void closeIndex() throws IOException {
 			writer.close();
-		}
+		}	
+		
 	}
 
 
