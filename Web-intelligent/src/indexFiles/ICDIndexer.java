@@ -32,7 +32,7 @@ public class ICDIndexer {
 
 		
 		private static StandardAnalyzer analyzer = new StandardAnalyzer(Version.LUCENE_42);
-		private static String indexLocation = "ICD/";
+		private static String indexLocation = "ICDIndex/";
 		private static String ICD = "ICD/";
 		
 		private IndexWriter writer;
