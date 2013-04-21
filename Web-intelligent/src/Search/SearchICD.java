@@ -57,18 +57,18 @@ public class SearchICD {
 			System.out.println(filename);
 			
 			String searchString = "";
-			int topHits = 5;
 			
 			while(scanner.hasNextLine()){
 				
 				searchString = scanner.nextLine();
+				int topHits = 5;
 				
 				
 				SearchFiles searchObject = new SearchFiles();
 				
-				searchString = queryPreprocess(searchString);
+//				searchString = queryPreprocess(searchString);
 				
-				searchIndexICD(searchString, topHits);
+				searchIndex(searchString, topHits);
 			}
 			
 			tall++;
@@ -87,18 +87,15 @@ public class SearchICD {
 	 * @throws IOException
 	 * @throws ParseException
 	 */
-	public static void searchIndexICD(String searchString, int topHits) throws IOException, ParseException {
+	public static void searchIndex(String searchString, int topHits) throws IOException, ParseException {
 
 		System.out.println("Searching for '" + searchString + "'");
 
 		Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_42);
-		QueryParser queryParser = new QueryParser(Version.LUCENE_42, "content", analyzer);
+		QueryParser queryParser = new QueryParser(Version.LUCENE_42, "contents", analyzer);
 		Query query = queryParser.parse(searchString);
-		
 		//Query q = new StandardQueryParser()
-		System.out.println("Men hva skjer nå?");
 		TopDocs topDocs = indexSearcher.search(query, topHits);
-		indexSearcher.
 
 		System.out.println("Number of hits: " + topDocs.totalHits);
 
