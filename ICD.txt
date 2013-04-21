@@ -1,0 +1,2236 @@
+Kolera (cholera)|A00
+Infeksiøse tarmsykdommer|A00-A09
+Visse infeksjonssykdommer og parasittsykdommer|A00-B99
+Kolera som skyldes Vibrio cholerae 01, biovar cholerae|A00.0
+Kolera som skyldes Vibrio cholerae 01, biovar eltor|A00.1
+Uspesifisert kolera|A00.9
+Tyfoidfeber og paratyfoidfeber|A01
+Tyfoidfeber|A01.0
+Paratyfoidfeber A|A01.1
+Paratyfoidfeber B|A01.2
+Paratyfoidfeber C|A01.3
+Uspesifisert paratyfoidfeber|A01.4
+Andre salmonellainfeksjoner|A02
+Salmonellaenteritt|A02.0
+gastroenteritt|A02.0
+tarmbetennelse|A02.0
+Salmonellasepsis|A02.1
+blodforgiftning|A02.1
+Lokaliserte salmonellainfeksjoner|A02.2†
+Andre spesifiserte salmonellainfeksjoner|A02.8
+Uspesifisert salmonellainfeksjon|A02.9
+Shigellose|A03
+Shigellose som skyldes Shigella dysenteriae|A03.0
+Shigellose som skyldes Shigella flexneri|A03.1
+Shigellose som skyldes Shigella boydii|A03.2
+Shigellose som skyldes Shigella sonnei|A03.3
+Annen spesifisert shigellose|A03.8
+Uspesifisert shigellose|A03.9
+Andre bakterielle tarminfeksjoner|A04
+Infeksjon som skyldes enteropatogen Escherichia coli|A04.0
+Infeksjon som skyldes enterotoksigen Escherichia coli|A04.1
+Infeksjon som skyldes enteroinvasiv Escherichia coli|A04.2
+Infeksjon som skyldes enterohemoragisk Escherichia coli|A04.3
+haemorrhagisk|A04.3
+hemorragisk|A04.3
+hemorrhagisk|A04.3
+Andre tarminfeksjoner som skyldes Escherichia coli|A04.4
+Enteritt som skyldes Campylobacter|A04.5
+gastroenteritt|A04.5
+tarmbetennelse|A04.5
+Enteritt som skyldes Yersinia enterocolitica|A04.6
+gastroenteritt|A04.6
+tarmbetennelse|A04.6
+Enterokolitt som skyldes Clostridium difficile|A04.7
+clostridium difficile enterokolitt|A04.7
+clostridium difficile matforgiftning|A04.7
+clostridium difficile tarminfeksjon|A04.7
+clostridium difficile-diaré|A04.7
+clostridium difficile-enteritt|A04.7
+clostridium difficile-enterokolitt|A04.7
+clostridium-tarminfeksjon|A04.7
+clostridiumenteritt|A04.7
+clostridiumenterokolitt|A04.7
+colitt|A04.7
+enterokolitt clostridium difficile|A04.7
+matforgiftning av clostridium difficile|A04.7
+pseudomembranøs enterokolitt|A04.7
+pseudomembranøs kolitt|A04.7
+Andre spesifiserte bakterielle tarminfeksjoner|A04.8
+Uspesifisert bakteriell tarminfeksjon|A04.9
+Andre bakterielle matforgiftninger, ikke klassifisert annet sted|A05
+Matforgiftning som skyldes Staphylococcus|A05.0
+Botulisme|A05.1
+Matforgiftning som skyldes Clostridium perfringens[Clostridium welchii]|A05.2
+Matforgiftning som skyldes Vibrio parahaemolyticus|A05.3
+Matforgiftning som skyldes Bacillus cereus|A05.4
+Andre spesifiserte bakterielle matforgiftninger|A05.8
+Uspesifisert bakteriell matforgiftning|A05.9
+Amøbeinfeksjon|A06
+Akutt amøbedysenteri|A06.0
+Kronisk amøbeinfeksjon i tarmkanalen|A06.1
+Amøbekolitt uten dysenteri|A06.2
+colitt|A06.2
+Amøbom i tarmkanalen|A06.3
+Amøbeabscess i lever|A06.4
+Amøbeabscess i lunge (J99.8*)|A06.5†
+Amøbeabscess i hjerne (G07*)|A06.6†
+Amøbeinfeksjon i hud|A06.7
+cutan|A06.7
+kutan|A06.7
+Amøbeinfeksjon med annen spesifisert lokalisasjon|A06.8
+Uspesifisert amøbeinfeksjon|A06.9
+Andre protozosykdommer i tarmkanalen|A07
+Balantidiasis|A07.0
+Infeksjon som skyldes Giardia lamblia|A07.1
+Cryptosporidiosis|A07.2
+Isosporiasis|A07.3
+Andre spesifiserte protozosykdommer i tarmkanalen|A07.8
+Uspesifisert protozosykdom i tarmkanalen|A07.9
+Virusinfeksjoner og andre spesifiserte infeksjoner i mage-tarmkanalen|A08
+Rotavirusenteritt|A08.0
+gastroenteritt|A08.0
+tarmbetennelse|A08.0
+virusgastroenteritt|A08.0
+Akutt gastroenteritt som skyldes Norwalk-faktor|A08.1
+gastroenteritt|A08.1
+gastroenteritt norwalkvirus|A08.1
+norwalkvirus-gastroenteritt|A08.1
+tarmbetennelse|A08.1
+Adenovirusenteritt|A08.2
+gastroenteritt|A08.2
+tarmbetennelse|A08.2
+virusgastroenteritt|A08.2
+Annen virusenteritt|A08.3
+calicivirus-gastroenteritt|A08.3
+gastroenteritt|A08.3
+norovirus-gastroenteritt|A08.3
+tarmbetennelse|A08.3
+virusgastroenteritt|A08.3
+Uspesifisert virusinfeksjon i mage-tarmkanalen|A08.4
+mageinfluensa|A08.4
+Andre spesifiserte mage-tarminfeksjoner|A08.5
+Annen gastroenteritt og kolitt av infeksiøs og uspesifisert årsak|A09
+colitt|A09
+gastroenteritt|A09
+gastrointestinal infeksjon|A09
+mage-tarminfeksjon|A09
+mageinfeksjon|A09
+tarmbetennelse|A09
+tarminfeksjon|A09
+Annen og uspesifisert gastroenteritt og kolitt av infeksiøs årsak|A09.0
+colitt|A09.0
+gastroenteritt|A09.0
+tarmbetennelse|A09.0
+Gastroenteritt og kolitt av uspesifisert årsak|A09.9
+colitt|A09.9
+gastroenteritt|A09.9
+tarmbetennelse|A09.9
+Tuberkulose i åndedrettsorganer, bakteriologisk og histologisk bekreftet|A15
+tbc|A15
+Tuberkulose|A15-A19
+tbc|A15-A19
+Lungetuberkulose bekreftet ved mikroskopi av sputum med eller uten kultur|A15.0
+tbc|A15.0
+Lungetuberkulose, kun bekreftet ved kultur|A15.1
+tbc|A15.1
+Lungetuberkulose, histologisk bekreftet|A15.2
+tbc|A15.2
+Lungetuberkulose, bekreftet på ikke angitt måte|A15.3
+tbc|A15.3
+Tuberkulose i intratorakale lymfeknuter, bakteriologisk og histologisk bekreftet|A15.4
+glandel|A15.4
+intrathoracal|A15.4
+tbc|A15.4
+thoracal|A15.4
+Tuberkulose i strupehode, glottis, luftrør og bronkie, bakteriologisk og histologisk bekreftet|A15.5
+tbc|A15.5
+trakea|A15.5
+Tuberkuløs pleuritt , bakteriologisk og histologisk bekreftet|A15.6
+brysthinnebetennelse|A15.6
+plevritt|A15.6
+Primær tuberkulose i åndedrettsorganer, bakteriologisk og histologisk bekreftet|A15.7
+tbc|A15.7
+Annen spesifisert tuberkulose i åndedrettsorganer, bakteriologisk og histologisk bekreftet|A15.8
+tbc|A15.8
+Uspesifisert tuberkulose i åndedrettsorganer, bakteriologisk og histologisk bekreftet|A15.9
+tbc|A15.9
+Tuberkulose i åndedrettsorganer, ikke bekreftet bakteriologisk eller histologisk|A16
+tbc|A16
+Lungetuberkulose, bakteriologisk og histologisk negativ|A16.0
+tbc|A16.0
+Lungetuberkulose, bakteriologisk og histologisk undersøkelse ikke utført|A16.1
+tbc|A16.1
+Lungetuberkulose, bakteriologisk eller histologisk bekreftelse ikke nevnt|A16.2
+lunge tbc|A16.2
+lunge-tbc|A16.2
+lungetbc|A16.2
+lungetuberkulose|A16.2
+pneumonia caseosa|A16.2
+pulmonal tuberkulose|A16.2
+tbc|A16.2
+tuberkulose i lunge|A16.2
+tuberkuløs pneumoni|A16.2
+Tuberkulose i intratorakale lymfeknuter, bakteriologisk eller histologisk bekreftelse ikke nevnt|A16.3
+glandel|A16.3
+intrathoracal|A16.3
+tbc|A16.3
+thoracal|A16.3
+Tuberkulose i strupehode, luftrør og bronkie, bakteriologisk eller histologisk bekreftelse ikke nevnt|A16.4
+tbc|A16.4
+trakea|A16.4
+Tuberkuløs pleuritt, bakteriologisk eller histologisk bekreftelse ikke nevnt|A16.5
+brysthinnebetennelse|A16.5
+plevritt|A16.5
+tbc i pleura|A16.5
+tbc pleura|A16.5
+tuberkulose i pleura|A16.5
+tuberkuløs pleuritt|A16.5
+tuberkuløst empyem|A16.5
+Primær tuberkulose i åndedrettsorganer, bakteriologisk eller histologisk bekreftelse ikke nevnt|A16.7
+tbc|A16.7
+Annen spesifisert tuberkulose i åndedrettsorganer, bakteriologisk eller histologisk bekreftelse ikke nevnt|A16.8
+tbc|A16.8
+Uspesifisert tuberkulose i åndedrettsorganer, bakteriologisk eller histologisk bekreftelse ikke nevnt|A16.9
+tbc|A16.9
+tuberkulose|A16.9
+Tuberkulose i nervesystemet|A17†
+tbc|A17†
+Tuberkuløs meningitt (G01*)|A17.0†
+hjernehinnebetennelse|A17.0†
+tbc-meningitt|A17.0†
+tuberkuløs meningitt|A17.0†
+Meningealt tuberkulom (G07*)|A17.1†
+meningal|A17.1†
+Annen spesifisert tuberkulose i nervesystemet|A17.8†
+tbc|A17.8†
+Uspesifisert tuberkulose i nervesystemet (G99.8*)|A17.9†
+tbc|A17.9†
+Tuberkulose i andre organer|A18
+tbc|A18
+Tuberkulose i ben og ledd|A18.0†
+bein|A18.0†
+tbc|A18.0†
+Tuberkulose i urin- og kjønnsorganer|A18.1†
+tbc|A18.1†
+Tuberkuløs sykdom i perifere lymfeknuter|A18.2
+glandel|A18.2
+Tuberkulose i tarmer, bukhinne og lymfeknuter i mesenterium|A18.3
+glandel|A18.3
+tbc|A18.3
+tuberkulose i tarm|A18.3
+Tuberkulose i hud og underhudsvev|A18.4
+cutan|A18.4
+kutan|A18.4
+tbc|A18.4
+Tuberkulose i øye|A18.5†
+tbc|A18.5†
+Tuberkulose i øre|A18.6†
+tbc|A18.6†
+Tuberkulose i binyrer(E35.1*)|A18.7†
+tbc|A18.7†
+Tuberkulose i andre spesifiserte organer|A18.8†
+tbc|A18.8†
+Miliærtuberkulose|A19
+tbc|A19
+Akutt miliærtuberkulose, én enkelt spesifisert lokalisasjon|A19.0
+tbc|A19.0
+Akutt miliærtuberkulose, flere lokalisasjoner|A19.1
+tbc|A19.1
+Uspesifisert akutt miliærtuberkulose|A19.2
+miliær tbc|A19.2
+miliær tuberkulose|A19.2
+miliærtuberkulose|A19.2
+tbc|A19.2
+Annen spesifisert miliærtuberkulose|A19.8
+tbc|A19.8
+Uspesifisert miliærtuberkulose|A19.9
+tbc|A19.9
+Pest (pestis)|A20
+pestis|A20
+Visse bakterielle zoonoser|A20-A28
+Bubonpest|A20.0
+pestis|A20.0
+Hudpest|A20.1
+cutan|A20.1
+kutan|A20.1
+pestis|A20.1
+Lungepest|A20.2
+pestis|A20.2
+Pestmeningitt|A20.3
+hjernehinnebetennelse|A20.3
+pestis|A20.3
+Sepsispest|A20.7
+blodforgiftning|A20.7
+pestis|A20.7
+Annen spesifisert pest|A20.8
+pestis|A20.8
+Uspesifisert pest|A20.9
+pestis|A20.9
+Tularemi|A21
+Ulceroglandulær tularemi|A21.0
+Okuloglandulær tularemi|A21.1
+Pulmonal tularemi|A21.2
+lunge|A21.2
+Gastrointestinal tularemi|A21.3
+Generalisert tularemi|A21.7
+Annen spesifisert tularemi|A21.8
+Uspesifisert tularemi|A21.9
+Miltbrann (anthrax)|A22
+anthrax|A22
+Hudmiltbrann|A22.0
+anthrax|A22.0
+cutan|A22.0
+kutan|A22.0
+Lungemiltbrann|A22.1
+anthrax|A22.1
+Gastrointestinal miltbrann|A22.2
+anthrax|A22.2
+Miltbrannsepsis|A22.7
+anthrax|A22.7
+blodforgiftning|A22.7
+Annen spesifisert miltbrann|A22.8
+anthrax|A22.8
+Uspesifisert miltbrann|A22.9
+anthrax|A22.9
+Brucellose|A23
+Brucellose som skyldes Brucella melitensis|A23.0
+Brucellose som skyldes Brucella abortus|A23.1
+Brucellose som skyldes Brucella suis|A23.2
+Brucellose som skyldes Brucella canis|A23.3
+Annen spesifisert brucellose|A23.8
+Uspesifisert brucellose|A23.9
+Snive og melioidose|A24
+melioidosis|A24
+psevdomalleus|A24
+Snive|A24.0
+Akutt og fulminant melioidose|A24.1
+melioidosis|A24.1
+psevdomalleus|A24.1
+Subakutt og kronisk melioidose|A24.2
+melioidosis|A24.2
+psevdomalleus|A24.2
+Annen melioidose|A24.3
+melioidosis|A24.3
+psevdomalleus|A24.3
+Uspesifisert melioidose|A24.4
+melioidosis|A24.4
+psevdomalleus|A24.4
+Rottebittfeber|A25
+Spirillose|A25.0
+Streptobasillose|A25.1
+Uspesifisert rottebittfeber|A25.9
+Erysipeloid|A26
+svinerosen|A26
+Kutan erysipeloid|A26.0
+svinerosen|A26.0
+Sepsis som skyldes Erysipelothrix|A26.7
+blodforgiftning|A26.7
+Annen spesifisert erysipeloid|A26.8
+svinerosen|A26.8
+Uspesifisert erysipeloid|A26.9
+svinerosen|A26.9
+Leptospirose|A27
+Leptospirosis icterohaemorrhagica|A27.0
+Annen spesifisert leptospirose|A27.8
+Uspesifisert leptospirose|A27.9
+Andre bakterielle zoonoser, ikke klassifisert annet sted|A28
+Pasteurellose|A28.0
+Katteklorfeber|A28.1
+Ekstraintestinal yersiniose|A28.2
+Andre spesifiserte bakterielle zoonoser, ikke klassifisert annet sted|A28.8
+Uspesifisert bakteriell zoonose|A28.9
+Lepra[Hansens sykdom]|A30
+hansens sykdom|A30
+spedalskhet|A30
+Andre bakteriesykdommer|A30-A49
+Ubestemt lepra|A30.0
+hansens sykdom|A30.0
+spedalskhet|A30.0
+Tuberkuloid lepra|A30.1
+hansens sykdom|A30.1
+spedalskhet|A30.1
+Tuberkuloid lepra av grensetype|A30.2
+grein|A30.2
+hansens sykdom|A30.2
+spedalskhet|A30.2
+Lepra av grensetype|A30.3
+grein|A30.3
+hansens sykdom|A30.3
+spedalskhet|A30.3
+Lepromatøs lepra av grensetype|A30.4
+grein|A30.4
+hansens sykdom|A30.4
+spedalskhet|A30.4
+Lepromatøs lepra|A30.5
+hansens sykdom|A30.5
+ll-lepra|A30.5
+spedalskhet|A30.5
+Annen spesifisert lepra|A30.8
+hansens sykdom|A30.8
+spedalskhet|A30.8
+Uspesifisert lepra|A30.9
+hansens sykdom|A30.9
+spedalskhet|A30.9
+Infeksjon som skyldes andre mykobakterier|A31
+Mykobakteriell lungeinfeksjon|A31.0
+atypisk mykobakterieinfeksjon i lunge|A31.0
+lungemykobakteriose|A31.0
+mykobacterium avium lungeinfeksjon|A31.0
+mykobacterium intracellulare lungeinfeksjon|A31.0
+mykobakteriell lungeaffeksjon|A31.0
+mykobakterium avium-pneumoni|A31.0
+mykobakterium intracellulare-pneumoni|A31.0
+pneumoni med atypiske mykobakterier|A31.0
+Mykobakteriell hudinfeksjon|A31.1
+cutan|A31.1
+kutan|A31.1
+Andre spesifiserte infeksjoner som skyldes mykobakterier|A31.8
+Uspesifisert infeksjon som skyldes mykobakterier|A31.9
+atypisk mykobakterieinfeksjon|A31.9
+atypisk mykobakteriose|A31.9
+mykobakterieinfeksjon|A31.9
+mykobakteriose|A31.9
+Listeriose|A32
+dreiesyke|A32
+Hudlisteriose|A32.0
+cutan|A32.0
+dreiesyke|A32.0
+kutan|A32.0
+Meningitt  og meningoencefalitt som skyldes Listeria|A32.1†
+betennelse i hjerne|A32.1†
+encephalitis|A32.1†
+hjernebetennelse|A32.1†
+hjernehinnebetennelse|A32.1†
+listeriameningitt|A32.1†
+Listeriasepsis|A32.7
+blodforgiftning|A32.7
+Annen spesifisert listeriose|A32.8
+dreiesyke|A32.8
+Uspesifisert listeriose|A32.9
+dreiesyke|A32.9
+Stivkrampe hos nyfødt (tetanus neonatorum)|A33
+tetanus|A33
+Stivkrampe etter fødsel|A34
+tetanus|A34
+Annen stivkrampe (tetanus)|A35
+tetanus|A35
+Difteri|A36
+Svelgdifteri|A36.0
+farynks|A36.0
+Difteri i nasopharynx|A36.1
+nasofarynks|A36.1
+nesesvelg|A36.1
+Larynksdifteri|A36.2
+Kutan difteri|A36.3
+Annen spesifisert difteri|A36.8
+Uspesifisert difteri|A36.9
+Kikhoste|A37
+Kikhoste som skyldes Bordetella pertussis|A37.0
+Kikhoste som skyldes Bordetella parapertussis|A37.1
+Kikhoste som skyldes andre spesifiserte bordetella-arter|A37.8
+Uspesifisert kikhoste|A37.9
+Skarlagensfeber|A38
+scarlatina|A38
+Meningokokkinfeksjon|A39
+Meningokokkmeningitt (G01*)|A39.0†
+hjernehinnebetennelse|A39.0†
+meningokokkmeningitt|A39.0†
+Waterhouse-Friderichsens syndrom (E35.1*)|A39.1†
+waterhouse-friderichsens syndrom|A39.1†
+Akutt meningokokkemi|A39.2
+Kronisk meningokokkemi|A39.3
+Uspesifisert meningokokkemi|A39.4
+meningokokksepsis|A39.4
+Hjertesykdom forårsaket av Meningococcus|A39.5†
+Andre spesifiserte meningokokkinfeksjoner|A39.8
+Uspesifisert meningokokkinfeksjon|A39.9
+Streptokokksepsis|A40
+blodforgiftning|A40
+streptococc|A40
+Sepsis som skyldes Streptococcus, serogruppe A|A40.0
+betahemolytisk streptokokk a sepsis|A40.0
+blodforgiftning|A40.0
+sepsis betahemolytiske streptokokker gruppe a|A40.0
+sepsis streptokokker gruppe a|A40.0
+streptokokk a sepsis|A40.0
+Sepsis som skyldes Streptococcus, serogruppe B|A40.1
+blodforgiftning|A40.1
+Sepsis som skyldes Streptococcus, serogruppe D|A40.2
+blodforgiftning|A40.2
+Sepsis som skyldes Streptococcus pneumoniae|A40.3
+blodforgiftning|A40.3
+lungebetennelse|A40.3
+pneumokokksepsis|A40.3
+sepsis pneumokokker|A40.3
+Annen spesifisert streptokokksepsis|A40.8
+blodforgiftning|A40.8
+streptococc|A40.8
+Uspesifisert streptokokksepsis|A40.9
+blodforgiftning|A40.9
+streptococc|A40.9
+streptokokksepsis|A40.9
+Annen sepsis|A41
+blodforgiftning|A41
+Sepsis som skyldes Staphylococcus aureus|A41.0
+blodforgiftning|A41.0
+gule stafylokokker|A41.0
+sepsis med gule stafylokokker|A41.0
+sepsis med s aureus|A41.0
+sepsis med staphylococcus aureus|A41.0
+staph aureus sepsis|A41.0
+staphylococcus aureus-sepsis|A41.0
+Sepsis som skyldes andre spesifiserte stafylokokker|A41.1
+blodforgiftning|A41.1
+stafylococc|A41.1
+Sepsis som skyldes uspesifiserte stafylokokker|A41.2
+blodforgiftning|A41.2
+sepsis med stafylokokker|A41.2
+stafylococc|A41.2
+stafylokokk sepsis|A41.2
+stafylokokksepsis|A41.2
+Sepsis som skyldes Haemophilus influenzae|A41.3
+blodforgiftning|A41.3
+haemophilus influenzae-sepsis|A41.3
+haemophilus-sepsis|A41.3
+hemofilus-sepsis|A41.3
+Sepsis som skyldes anaerobe bakterier|A41.4
+blodforgiftning|A41.4
+clostridiumsepsis|A41.4
+Sepsis som skyldes andre gram-negative organismer|A41.5
+blodforgiftning|A41.5
+colisepsis|A41.5
+e coli sepsis|A41.5
+e colisepsis|A41.5
+enterokokksepsis|A41.5
+gram negativ sepsis|A41.5
+gramnegativ sepsis|A41.5
+klebsiellasepsis|A41.5
+proteus mirabilis-sepsis|A41.5
+pseudomonassepsis|A41.5
+sepsis coli|A41.5
+sepsis e coli|A41.5
+sepsis enterobacter|A41.5
+sepsis enteroccus faecium|A41.5
+sepsis gramnegative staver|A41.5
+Annen spesifisert sepsis|A41.8
+bacillussepsis|A41.8
+blodforgiftning|A41.8
+grampositiv sepsis|A41.8
+listeriasepsis|A41.8
+morganella morgani-sepsis|A41.8
+pasteurella multocida-sepsis|A41.8
+sepsis grampositive kokker|A41.8
+Uspesifisert sepsis|A41.9
+blodforgiftning|A41.9
+sepsis|A41.9
+septikemi|A41.9
+septisk feber|A41.9
+septisk gangren|A41.9
+septisk metastase|A41.9
+septisk påvirkning|A41.9
+septisk sjokk|A41.9
+septisk syndrom|A41.9
+Aktinomykose|A42
+actinomycosis|A42
+Pulmonal aktinomykose|A42.0
+actinomycosis|A42.0
+lunge|A42.0
+Abdominal aktinomykose|A42.1
+actinomycosis|A42.1
+Cervikofacial aktinomykose|A42.2
+actinomycosis|A42.2
+Aktinomykotisk sepsis|A42.7
+blodforgiftning|A42.7
+Annen spesifisert aktinomykose|A42.8
+actinomycosis|A42.8
+Uspesifisert aktinomykose|A42.9
+actinomycosis|A42.9
+Nokardiose|A43
+Pulmonal nokardiose|A43.0
+lunge|A43.0
+Kutan nokardiose|A43.1
+Annen spesifisert nokardiose|A43.8
+Uspesifisert nokardiose|A43.9
+Bartonellose [Carrions sykdom]|A44
+carrions sykdom|A44
+Systemisk bartonellose|A44.0
+carrions sykdom|A44.0
+Kutan og mukokutan bartonellose|A44.1
+carrions sykdom|A44.1
+Annen spesifisert bartonellose|A44.8
+carrions sykdom|A44.8
+Uspesifisert bartonellose|A44.9
+carrions sykdom|A44.9
+Erysipelas[Rosen]|A46
+erysipelas|A46
+erysipelas i ben|A46
+erysipelas i legg|A46
+rosen|A46
+rosen i ben|A46
+Andre bakteriesykdommer, ikke klassifisert annet sted|A48
+Gassgangren|A48.0
+clostridium difficile-infeksjon|A48.0
+clostridium difficileinfeksjon|A48.0
+clostridium perfringens-gangren|A48.0
+gassgangren|A48.0
+grein|A48.0
+koldbrann|A48.0
+Legionærsykdom|A48.1
+legionella pneumofila-pneumoni|A48.1
+legionellapneumoni|A48.1
+legionellosis|A48.1
+legionærsykdom|A48.1
+Legionærsykdom  uten pneumoni [Pontiac-feber]|A48.2
+legionellosis|A48.2
+lungebetennelse|A48.2
+Toksisk sjokksyndrom (TSS)|A48.3
+mods|A48.3
+mof|A48.3
+sirs|A48.3
+toksisk sjokksyndrom|A48.3
+toxic shock syndrome|A48.3
+Brasiliansk purpura fulminans|A48.4
+Andre spesifiserte bakteriesykdommer|A48.8
+Bakterieinfeksjon med uspesifisert lokalisasjon|A49
+Stafylokokkinfeksjon med uspesifisert lokalisasjon|A49.0
+mrsa-infeksjon|A49.0
+multiresistent stafylokokkinfeksjon|A49.0
+staf aureusinfeksjon|A49.0
+stafylococc|A49.0
+stafylokokkinfeksjon|A49.0
+staphylococcus aureus-infeksjon|A49.0
+Streptokokkinfeksjon med uspesifisert lokalisasjon|A49.1
+pneumokokkinfeksjon|A49.1
+streptococc|A49.1
+Infeksjon med uspesifisert lokalisasjon som skyldes Haemophilus influenzaeHaemophilus influenzae|A49.2
+Mykoplasmainfeksjon med uspesifisert lokalisasjon|A49.3
+Andre bakterieinfeksjoner med uspesifisert lokalisasjon|A49.8
+clostridieinfeksjon|A49.8
+clostridiuminfeksjon|A49.8
+e coli-infeksjon|A49.8
+gramnegativ bakteriemi|A49.8
+klebsiellainfeksjon|A49.8
+pseudomonas aeruginosa-infeksjon|A49.8
+pseudomonasinfeksjon|A49.8
+Uspesifisert bakterieinfeksjon|A49.9
+bakteremi|A49.9
+bakterieinfeksjon|A49.9
+bakteriell infeksjon|A49.9
+bakteriemi|A49.9
+bakterier i blodbanen|A49.9
+bakterier i blodet|A49.9
+Medfødt syfilis (lues congenita)|A50
+congenitt|A50
+kongenitt|A50
+lues|A50
+Hovedsakelig seksuelt overførbare infeksjoner|A50-A64
+Tidlig medfødt syfilis, symptomgivende|A50.0
+congenitt|A50.0
+kongenitt|A50.0
+lues|A50.0
+Tidlig medfødt syfilis, latent|A50.1
+congenitt|A50.1
+kongenitt|A50.1
+lues|A50.1
+Tidlig medfødt syfilis, uspesifisert|A50.2
+congenitt|A50.2
+kongenitt|A50.2
+lues|A50.2
+Øyesykdom ved sen medfødt syfilis|A50.3
+congenitt|A50.3
+kongenitt|A50.3
+lues|A50.3
+Medfødt nevrosyfilis[juvenil nevrosyfilis]|A50.4
+congenitt|A50.4
+kongenitt|A50.4
+lues|A50.4
+neuro|A50.4
+neurosyfilis|A50.4
+Annen sen medfødt syfilis med symptomer eller stigmata|A50.5
+congenitt|A50.5
+kongenitt|A50.5
+lues|A50.5
+Sen medfødt syfilis, latent|A50.6
+congenitt|A50.6
+kongenitt|A50.6
+lues|A50.6
+Sen medfødt syfilis, uspesifisert|A50.7
+congenitt|A50.7
+kongenitt|A50.7
+lues|A50.7
+Uspesifisert medfødt syfilis|A50.9
+congenitt|A50.9
+kongenitt|A50.9
+lues|A50.9
+Tidlig syfilis|A51
+lues|A51
+Primær genital syfilis|A51.0
+lues|A51.0
+Primær anal syfilis|A51.1
+lues|A51.1
+Primær syfilis med annen lokalisasjon|A51.2
+lues|A51.2
+Sekundær syfilis i hud og slimhinner|A51.3
+cutan|A51.3
+kutan|A51.3
+lues|A51.3
+Annen sekundær syfilis|A51.4
+lues|A51.4
+Tidlig latent syfilis|A51.5
+lues|A51.5
+Uspesifisert tidlig syfilis|A51.9
+lues|A51.9
+Sensyfilis|A52
+lues|A52
+Kardiovaskulær syfilis|A52.0†
+lues|A52.0†
+Symptomgivende nevrosyfilis|A52.1
+lues|A52.1
+neuro|A52.1
+neurosyfilis|A52.1
+Asymptomatisk nevrosyfilis|A52.2
+lues|A52.2
+neuro|A52.2
+neurosyfilis|A52.2
+Uspesifisert nevrosyfilis|A52.3
+lues|A52.3
+neuro|A52.3
+neurosyfilis|A52.3
+Annen symptomgivende sensyfilis|A52.7
+lues|A52.7
+Latent sensyfilis|A52.8
+lues|A52.8
+Uspesifisert sensyfilis|A52.9
+lues|A52.9
+Annen og uspesifisert syfilis|A53
+lues|A53
+Latent syfilis, der debuttidspunkt ikke er spesifisert|A53.0
+lues|A53.0
+Uspesifisert syfilis|A53.9
+lues|A53.9
+syfilis|A53.9
+Gonokokkinfeksjon|A54
+gonococc|A54
+gonococcinfeksjon|A54
+Gonokokkinfeksjon  i nedre urogenitalsystem uten periuretral abscess eller abscess i tilliggende kjertler|A54.0
+gonococc|A54.0
+gonococcinfeksjon|A54.0
+Gonokokkinfeksjon  i nedre urogenitalsystem med periuretral abscess og abscess i tilliggende kjertel|A54.1
+gonococc|A54.1
+gonococcinfeksjon|A54.1
+Gonokokkpelviperitonitt  og andre gonokokkinfeksjoner i kjønnsorganer og urinveier|A54.2†
+bukhinnebetennelse|A54.2†
+gonococc|A54.2†
+gonococcinfeksjon|A54.2†
+peritonitis|A54.2†
+Gonokokkinfeksjon  i øye|A54.3
+gonococc|A54.3
+gonococcinfeksjon|A54.3
+Gonokokkinfeksjon  i muskel-skjelettsystem|A54.4†
+gonococc|A54.4†
+gonococcinfeksjon|A54.4†
+Gonokokkfaryngitt|A54.5
+gonococc|A54.5
+pharyngitis|A54.5
+svelgbetennelse|A54.5
+Gonokokkinfeksjon  i endetarmsåpning og endetarm|A54.6
+gonococc|A54.6
+gonococcinfeksjon|A54.6
+rektum|A54.6
+Andre spesifiserte gonokokkinfeksjoner|A54.8
+gonococc|A54.8
+gonococcinfeksjon|A54.8
+Uspesifisert gonokokkinfeksjon|A54.9
+gonococc|A54.9
+gonococcinfeksjon|A54.9
+Klamydialymfogranulom(venereum)|A55
+lgv|A55
+Andre seksuelt overførte klamydiasykdommer|A56
+Klamydiainfeksjon i nedre urogenitalsystem|A56.0
+Klamydiainfeksjon i urin- og kjønnsorganer eller pelviperitoneum|A56.1†
+bekkenbukhinne|A56.1†
+Uspesifisert klamydiainfeksjon i kjønnsorganer og urinveier|A56.2
+Klamydiainfeksjon i endetarmsåpning (anus), analkanal (canalis analis) og endetarm (rectum)|A56.3
+rektum|A56.3
+Klamydiainfeksjon i svelg (pharynx)|A56.4
+farynks|A56.4
+Seksuelt overført klamydiainfeksjon med annen spesifisert lokalisasjon|A56.8
+Bløt  sjanker|A57
+blaut|A57
+Granuloma inguinale|A58
+Trikomonasinfeksjon|A59
+Urogenital trikomonasinfeksjon|A59.0
+Trikomonasinfeksjon med annen spesifisert lokalisasjon|A59.8
+Uspesifisert trikomonasinfeksjon|A59.9
+Anogenital herpesvirusinfeksjon [herpes simplex]-infeksjon|A60
+herpes|A60
+Herpesvirusinfeksjon i kjønnsorganer og urinveier|A60.0
+herpes|A60.0
+Herpesvirusinfeksjon i hud omkring endetarmsåpning, i analkanal og endetarm|A60.1
+cutan|A60.1
+herpes|A60.1
+kutan|A60.1
+rektum|A60.1
+Uspesifisert anogenital herpesvirusinfeksjon|A60.9
+herpes|A60.9
+Andre hovedsakelig seksuelt overførbare sykdommer, ikke klassifisert annet sted|A63
+Anogenitale (veneriske) vorter|A63.0
+Andre spesifiserte hovedsakelig seksuelt overførbare sykdommer|A63.8
+Uspesifiserte seksuelt overførbare sykdommer|A64
+Ikke-venerisk syfilis|A65
+lues|A65
+Andre spiroketsykdommer|A65-A69
+«Yaws»|A66
+Primære lesjoner  ved «yaws»|A66.0
+Multiple papillomer og «wet crab yaws»|A66.1
+Andre tidlige hudlesjoner ved «yaws»|A66.2
+cutan|A66.2
+kutan|A66.2
+Hyperkeratose ved «yaws»|A66.3
+Gumma og ulcus ved «yaws»|A66.4
+Gangosa|A66.5
+Knokkel- og leddlesjoner ved «yaws»|A66.6
+Andre manifestasjoner ved «yaws»|A66.7
+Latent «yaws»|A66.8
+Uspesifisert «yaws»|A66.9
+Pinta[carate]|A67
+Primære lesjoner ved pinta|A67.0
+Intermediære lesjoner ved pinta|A67.1
+Sene lesjoner ved pinta|A67.2
+Blandede lesjoner ved pinta|A67.3
+Uspesifisert pinta|A67.9
+Tilbakefallsfeber|A68
+Tilbakefallsfeber overført ved lus|A68.0
+Tilbakefallsfeber overført ved flått|A68.1
+Uspesifisert tilbakefallsfeber|A68.9
+Andre spiroketinfeksjoner|A69
+Nekrotiserende ulcerøs stomatitt|A69.0
+munnbetennelse|A69.0
+stomatitis|A69.0
+Andre Vincent-infeksjoner|A69.1
+anug|A69.1
+Borreliose|A69.2
+ecm|A69.2
+em|A69.2
+Andre spesifiserte spiroketinfeksjoner|A69.8
+Uspesifisert spiroketinfeksjon|A69.9
+Chlamydia psittaci-infeksjon|A70
+Andre sykdommer forårsaket av klamydia|A70-A74
+Trakom|A71
+Tidlig stadium  av trakom|A71.0
+Aktivt stadium av trakom|A71.1
+Uspesifisert trakom|A71.9
+Andre sykdommer forårsaket av klamydia|A74
+Klamydiakonjunktivitt (H13.1*)|A74.0†
+conjunctivitis|A74.0†
+conjunctivitt|A74.0†
+konjunktivitt med klamydia|A74.0†
+øyekatarr|A74.0†
+Andre spesifiserte klamydiasykdommer|A74.8
+Uspesifisert klamydiainfeksjon|A74.9
+Flekktyfus overført ved lus, lopper og midd|A75
+Rickettsioser|A75-A79
+Epidemisk flekktyfus som skyldes Rickettsia prowazekii, overført ved lus|A75.0
+Flekktyfus med gjenoppblussing [Brills sykdom]|A75.1
+Flekktyfus som skyldes Rickettsia typhi|A75.2
+Flekktyfus som skyldes Rickettsia tsutsugamushi|A75.3
+Uspesifisert flekktyfus|A75.9
+Flekkfeber [rickettsioser overført ved flått]|A77
+rickettsiose flåttbåren|A77
+rickettsiose overført ved flått|A77
+Flekkfeber som skyldes Rickettsia rickettsii|A77.0
+rickettsiose flåttbåren|A77.0
+rickettsiose overført ved flått|A77.0
+Flekkfeber som skyldes Rickettsia conorii|A77.1
+rickettsiose flåttbåren|A77.1
+rickettsiose overført ved flått|A77.1
+Flekkfeber som skyldes Rickettsia siberica|A77.2
+rickettsiose flåttbåren|A77.2
+rickettsiose overført ved flått|A77.2
+Flekkfeber som skyldes Rickettsia australis|A77.3
+rickettsiose flåttbåren|A77.3
+rickettsiose overført ved flått|A77.3
+Annen spesifisert flekkfeber|A77.8
+rickettsiose flåttbåren|A77.8
+rickettsiose overført ved flått|A77.8
+Uspesifisert flekkfeber|A77.9
+rickettsiose flåttbåren|A77.9
+rickettsiose overført ved flått|A77.9
+Q-feber|A78
+Andre rickettsioser|A79
+Skyttergravsfeber|A79.0
+Rickettsiainfeksjoner som skyldes Rickettsia akarii|A79.1
+Andre spesifiserte rickettsioser|A79.8
+Uspesifisert rickettsiose|A79.9
+Akutt poliomyelitt|A80
+myelitis|A80
+ryggmargsbetennelse|A80
+Virusinfeksjoner i sentralnervesystemet|A80-A89
+Akutt poliomyelitt med lammelse forårsaket av vaksine|A80.0
+myelitis|A80.0
+ryggmargsbetennelse|A80.0
+Akutt poliomyelitt med lammelse forårsaket av importerte ville virusstammer|A80.1
+myelitis|A80.1
+ryggmargsbetennelse|A80.1
+Akutt poliomyelitt med lammelse forårsaket av ikke-importerte ville virusstammer|A80.2
+myelitis|A80.2
+ryggmargsbetennelse|A80.2
+Annen og uspesifisert akutt poliomyelitt med lammelse|A80.3
+myelitis|A80.3
+ryggmargsbetennelse|A80.3
+Akutt poliomyelitt uten lammelse|A80.4
+myelitis|A80.4
+ryggmargsbetennelse|A80.4
+Uspesifisert akutt poliomyelitt|A80.9
+myelitis|A80.9
+polio|A80.9
+poliomyelitt|A80.9
+ryggmargsbetennelse|A80.9
+Atypiske virusinfeksjoner i sentralnervesystemet|A81
+Creutzfeldt-Jakobs sykdom|A81.0
+bse|A81.0
+creutzfeldt jakobs sykdom|A81.0
+creutzfeldt-jakobs sykdom|A81.0
+jakob-creutzfeldts sykdom|A81.0
+Subakutt skleroserende panencefalitt|A81.1
+betennelse i hjerne|A81.1
+encephalitis|A81.1
+hjernebetennelse|A81.1
+sclerose|A81.1
+sclerosis|A81.1
+Progressiv multifokal leukoencefalopati|A81.2
+encephalopathia|A81.2
+hjerneskade|A81.2
+hjernesklerose|A81.2
+progressiv leukoencefalopati|A81.2
+Andre spesifiserte atypiske virusinfeksjoner i sentralnervesystemet|A81.8
+Uspesifisert atypisk virusinfeksjon i sentralnervesystemet|A81.9
+Rabies [hundegalskap]|A82
+hundegalskap|A82
+Sylvatisk rabies|A82.0
+hundegalskap|A82.0
+Urban rabies|A82.1
+hundegalskap|A82.1
+Uspesifisert rabies|A82.9
+hundegalskap|A82.9
+Virusencefalitt  overført ved mygg|A83
+betennelse i hjerne|A83
+encephalitis|A83
+hjernebetennelse|A83
+virushjernebetennelse|A83
+Japansk encefalitt|A83.0
+betennelse i hjerne|A83.0
+encephalitis|A83.0
+hjernebetennelse|A83.0
+Vestlig heste-encefalitt|A83.1
+betennelse i hjerne|A83.1
+encephalitis|A83.1
+hjernebetennelse|A83.1
+Østlig heste-encefalitt|A83.2
+betennelse i hjerne|A83.2
+eee|A83.2
+encephalitis|A83.2
+hjernebetennelse|A83.2
+St Louis-encefalitt|A83.3
+betennelse i hjerne|A83.3
+encephalitis|A83.3
+hjernebetennelse|A83.3
+Australsk encefalitt|A83.4
+betennelse i hjerne|A83.4
+encephalitis|A83.4
+hjernebetennelse|A83.4
+Californisk encefalitt|A83.5
+betennelse i hjerne|A83.5
+encephalitis|A83.5
+hjernebetennelse|A83.5
+Rociovirussykdom|A83.6
+Annen spesifisert virusencefalitt overført ved mygg|A83.8
+betennelse i hjerne|A83.8
+encephalitis|A83.8
+hjernebetennelse|A83.8
+virushjernebetennelse|A83.8
+Uspesifisert virusencefalitt overført ved mygg|A83.9
+betennelse i hjerne|A83.9
+encephalitis|A83.9
+hjernebetennelse|A83.9
+virushjernebetennelse|A83.9
+Virusencefalitt overført ved flått|A84
+betennelse i hjerne|A84
+encephalitis|A84
+hjernebetennelse|A84
+virusencefalitt flåttbåren|A84
+virushjernebetennelse|A84
+Orientalsk encefalitt overført ved flått [Russian spring-summer encephalitis][RSSE]|A84.0
+betennelse i hjerne|A84.0
+encephalitis|A84.0
+hjernebetennelse|A84.0
+rsse|A84.0
+Sentraleuropeisk encefalitt overført ved flått|A84.1
+betennelse i hjerne|A84.1
+encephalitis|A84.1
+hjernebetennelse|A84.1
+Annen spesifisert virusencefalitt overført ved flått|A84.8
+betennelse i hjerne|A84.8
+encephalitis|A84.8
+hjernebetennelse|A84.8
+virusencefalitt flåttbåren|A84.8
+virushjernebetennelse|A84.8
+Uspesifisert virusencefalitt overført ved flått|A84.9
+betennelse i hjerne|A84.9
+encephalitis|A84.9
+hjernebetennelse|A84.9
+tbe|A84.9
+virusencefalitt flåttbåren|A84.9
+virushjernebetennelse|A84.9
+Annen virusencefalitt, ikke klassifisert annet sted|A85
+betennelse i hjerne|A85
+encephalitis|A85
+hjernebetennelse|A85
+virushjernebetennelse|A85
+Enterovirusencefalitt (G05.1*)|A85.0†
+betennelse i hjerne|A85.0†
+encephalitis|A85.0†
+hjernebetennelse|A85.0†
+virushjernebetennelse|A85.0†
+Adenovirusencefalitt (G05.1*)|A85.1†
+betennelse i hjerne|A85.1†
+encephalitis|A85.1†
+hjernebetennelse|A85.1†
+virushjernebetennelse|A85.1†
+Uspesifisert virusencefalitt overført ved artropoder|A85.2
+betennelse i hjerne|A85.2
+encephalitis|A85.2
+hjernebetennelse|A85.2
+leddyr|A85.2
+virushjernebetennelse|A85.2
+Annen spesifisert virusencefalitt|A85.8
+betennelse i hjerne|A85.8
+encephalitis|A85.8
+hjernebetennelse|A85.8
+virushjernebetennelse|A85.8
+Uspesifisert virusencefalitt|A86
+betennelse i hjerne|A86
+encephalitis|A86
+hjernebetennelse|A86
+virushjernebetennelse|A86
+Virusmeningitt|A87
+hjernehinnebetennelse|A87
+virushjernehinnebetennelse|A87
+Enterovirusmeningitt (G02.0*)|A87.0†
+hjernehinnebetennelse|A87.0†
+virushjernehinnebetennelse|A87.0†
+Adenovirusmeningitt (G02.0*)|A87.1†
+hjernehinnebetennelse|A87.1†
+virushjernehinnebetennelse|A87.1†
+Lymfocyttisk choriomeningitt|A87.2
+hjernehinnebetennelse|A87.2
+Annen spesifisert virusmeningitt|A87.8
+hjernehinnebetennelse|A87.8
+virushjernehinnebetennelse|A87.8
+Uspesifisert virusmeningitt|A87.9
+hjernehinnebetennelse|A87.9
+virushjernehinnebetennelse|A87.9
+virusmeningitt|A87.9
+Andre virusinfeksjoner i sentralnervesystemet, ikke klassifisert annet sted|A88
+Enteroviral exsanthema og feber [Boston-eksantem]|A88.0
+Smittsom svimmelhet (vertigo epidemica)|A88.1
+vertigo|A88.1
+Annen spesifisert virusinfeksjon i sentralnervesystemet|A88.8
+Uspesifisert virusinfeksjon i sentralnervesystemet|A89
+Denguefeber [klassisk dengue]|A90
+dandyfeber|A90
+dengue klassisk|A90
+Virussykdommer overført ved artropoder  og viral hemoragisk feber|A90-A99
+haemorrhagisk|A90-A99
+hemorragisk|A90-A99
+hemorrhagisk|A90-A99
+leddyr|A90-A99
+Hemoragisk  denguefeber (febris dengue haemorrhagica|A91
+dandyfeber|A91
+dengue klassisk|A91
+haemorrhagisk|A91
+hemorragisk|A91
+hemorrhagisk|A91
+Andre virussykdommer overført ved mygg|A92
+Chikungunyavirussykdom|A92.0
+O&#39;nyong-nyongfeber|A92.1
+Venezuelansk hestefeber|A92.2
+«West Nile»-virusinfeksjon|A92.3
+«Rift Valley»-feber|A92.4
+Andre spesifiserte virussykdommer overført ved mygg|A92.8
+Uspesifisert virussykdom overført ved mygg|A92.9
+Andre virussykdommer overført ved artropoder , ikke klassifisert annet sted|A93
+leddyr|A93
+Oropouchevirussykdom|A93.0
+Sandfluefeber|A93.1
+Coloradoflåttfeber|A93.2
+Andre spesifiserte virussykdommer overført ved artropoder|A93.8
+leddyr|A93.8
+Uspesifisert virussykdom overført ved artropoder|A94
+leddyr|A94
+virussykdom leddyrbåren|A94
+Gulfeber (febris flava)|A95
+febris flava|A95
+Sylvatisk gulfeber|A95.0
+febris flava|A95.0
+Urban gulfeber|A95.1
+febris flava|A95.1
+Uspesifisert gulfeber|A95.9
+febris flava|A95.9
+Hemoragisk  arenavirussykdom (febris haemorrhagica arenaviralis)|A96
+haemorrhagisk|A96
+hemorragisk|A96
+hemorrhagisk|A96
+Hemoragisk juninvirussykdom|A96.0
+haemorrhagisk|A96.0
+hemorragisk|A96.0
+hemorrhagisk|A96.0
+Hemoragisk machupovirussykdom|A96.1
+haemorrhagisk|A96.1
+hemorragisk|A96.1
+hemorrhagisk|A96.1
+Lassafeber|A96.2
+Andre spesifiserte hemoragiske arenavirussykdommer|A96.8
+haemorrhagisk|A96.8
+hemorragisk|A96.8
+hemorrhagisk|A96.8
+Uspesifisert hemoragisk arenavirussykdom|A96.9
+haemorrhagisk|A96.9
+hemorragisk|A96.9
+hemorrhagisk|A96.9
+Annen hemoragisk  virussykdom, ikke klassifisert annet sted|A98
+haemorrhagisk|A98
+hemorragisk|A98
+hemorrhagisk|A98
+Hemoragisk krimfeber som skyldes Congo-CHF-virus|A98.0
+haemorrhagisk|A98.0
+hemorragisk|A98.0
+hemorrhagisk|A98.0
+Hemoragisk Omsk-feber|A98.1
+haemorrhagisk|A98.1
+hemorragisk|A98.1
+hemorrhagisk|A98.1
+Kyasanur Forest-sykdom|A98.2
+Marburg-virussykdom|A98.3
+Ebola-virussykdom|A98.4
+Hemoragisk feber med renalt syndrom|A98.5
+epidemisk nefropati|A98.5
+haemorrhagisk|A98.5
+hantavirussykdom|A98.5
+hemorragisk|A98.5
+hemorrhagisk|A98.5
+Andre spesifiserte hemoragiske virussykdommer|A98.8
+haemorrhagisk|A98.8
+hemorragisk|A98.8
+hemorrhagisk|A98.8
+Uspesifisert hemoragisk  virussykdom|A99
+haemorrhagisk|A99
+hemorragisk|A99
+hemorrhagisk|A99
+Herpesvirusinfeksjoner [herpes simplex]-infeksjoner|B00
+herpes|B00
+Virusinfeksjoner kjennetegnet ved hud- og slimhinnelesjoner|B00-B09
+cutan|B00-B09
+kutan|B00-B09
+Eczema herpeticum|B00.0
+Vesikulær herpesdermatitt|B00.1
+dermatitis|B00.1
+eczema|B00.1
+enantem|B00.1
+utslett|B00.1
+Herpetisk gingivostomatitt og faryngotonsillitt|B00.2
+betennelse i mandel|B00.2
+munnbetennelse|B00.2
+stomatitis|B00.2
+tonsillitis|B00.2
+Herpesmeningitt (G02.0*)|B00.3†
+hjernehinnebetennelse|B00.3†
+Herpesencefalitt (G05.1*)|B00.4†
+betennelse i hjerne|B00.4†
+encephalitis|B00.4†
+herpesencefalitt|B00.4†
+hjernebetennelse|B00.4†
+Okulær herpesvirussykdom|B00.5†
+Disseminert herpesvirussykdom|B00.7
+generalisert herpes simplexinfeksjon|B00.7
+Andre spesifiserte former for herpesvirusinfeksjon|B00.8
+herpes|B00.8
+Uspesifisert herpesvirusinfeksjon|B00.9
+herpes|B00.9
+herpes simplexvirus|B00.9
+Varicella[vannkopper]|B01
+vannkopper|B01
+Varicellameningitt (G02.0*)|B01.0†
+hjernehinnebetennelse|B01.0†
+vannkopper|B01.0†
+Varicellaencefalitt (G05.1*)|B01.1†
+betennelse i hjerne|B01.1†
+encephalitis|B01.1†
+hjernebetennelse|B01.1†
+vannkopper|B01.1†
+Varicellapneumoni (J17.1*)|B01.2†
+lungebetennelse|B01.2†
+vannkopper|B01.2†
+Varicella med andre komplikasjoner|B01.8
+vannkopper|B01.8
+Varicella uten komplikasjoner|B01.9
+vannkopper|B01.9
+varicella|B01.9
+Herpes zoster|B02
+helvetesild|B02
+Zosterencefalitt (G05.1*)|B02.0†
+betennelse i hjerne|B02.0†
+encephalitis|B02.0†
+hjernebetennelse|B02.0†
+Zostermeningitt (G02.0*)|B02.1†
+hjernehinnebetennelse|B02.1†
+Herpes zoster med annen affeksjon av nervesystemet|B02.2†
+helvetesild|B02.2†
+herpes zoster oticus|B02.2†
+postherpetisk neuralgi|B02.2†
+Herpes zoster-sykdom i øye|B02.3†
+helvetesild|B02.3†
+herpes zoster ophthalmicus|B02.3†
+Disseminert herpes zoster|B02.7
+helvetesild|B02.7
+Herpes zoster med andre komplikasjoner|B02.8
+helvetesild|B02.8
+Herpes zoster uten komplikasjoner|B02.9
+helvetesild|B02.9
+herpes zoster|B02.9
+herpes zoster labialis|B02.9
+zoster|B02.9
+KopperI 1980 fastslo den 33. Verdens helseforsamling at kopper var utryddet. Klassifikasjonen er opprettholdt av beredskapshensyn.|B03
+Apekopper|B04
+Meslinger|B05
+Meslinger med encefalitt som komplikasjon (G05.1*)|B05.0†
+betennelse i hjerne|B05.0†
+encephalitis|B05.0†
+hjernebetennelse|B05.0†
+Meslinger med meningitt  som komplikasjon (G02.0*)|B05.1†
+hjernehinnebetennelse|B05.1†
+Meslinger med pneumoni  som komplikasjon (J17.1*)|B05.2†
+lungebetennelse|B05.2†
+Meslinger med mellomørebetennelse  som komplikasjon (H67.1*)|B05.3†
+otitis media|B05.3†
+Meslinger med intestinale komplikasjoner|B05.4
+Meslinger med andre komplikasjoner|B05.8
+Meslinger uten komplikasjoner|B05.9
+Rubella[røde hunder]|B06
+Rubella med nevrologiske  komplikasjoner|B06.0†
+neuro|B06.0†
+neurologisk|B06.0†
+Rubella med andre komplikasjoner|B06.8
+Rubella uten komplikasjoner|B06.9
+Virusvorter|B07
+Andre virusinfeksjoner kjennetegnet ved hud- og slimhinnelesjoner, ikke klassifisert annet sted|B08
+cutan|B08
+kutan|B08
+Andre orthopoxvirusinfeksjoner|B08.0
+Molluscum contagiosum|B08.1
+Exanthema subitum[sjette barnesykdom]|B08.2
+Erythema infectiosum[femte barnesykdom]|B08.3
+Vesikulær stomatitt med eksantem som skyldes enterovirus|B08.4
+hmf|B08.4
+munnbetennelse|B08.4
+stomatitis|B08.4
+Vesikulær faryngitt  som skyldes enterovirus|B08.5
+pharyngitis|B08.5
+svelgbetennelse|B08.5
+Andre spesifiserte virusinfeksjoner kjennetegnet ved hud- og slimhinnelesjoner|B08.8
+cutan|B08.8
+kutan|B08.8
+Uspesifisert virusinfeksjon kjennetegnet ved hud- og slimhinnelesjoner|B09
+cutan|B09
+kutan|B09
+Akutt hepatitt A|B15
+leverbetennelse|B15
+smittsom gulsott|B15
+Virushepatitt|B15-B19
+leverbetennelse|B15-B19
+smittsom gulsott|B15-B19
+virusleverbetennelse|B15-B19
+Hepatitt A med leverkoma|B15.0
+coma|B15.0
+leverbetennelse|B15.0
+smittsom gulsott|B15.0
+Hepatitt A uten leverkoma|B15.9
+coma|B15.9
+hepatitt a|B15.9
+leverbetennelse|B15.9
+smittsom gulsott|B15.9
+Akutt hepatitt B|B16
+leverbetennelse|B16
+smittsom gulsott|B16
+Akutt hepatitt B med delta-agens (koinfeksjon) og leverkoma|B16.0
+coma|B16.0
+leverbetennelse|B16.0
+smittsom gulsott|B16.0
+Akutt hepatitt B med delta-agens (koinfeksjon) uten leverkoma|B16.1
+coma|B16.1
+leverbetennelse|B16.1
+smittsom gulsott|B16.1
+Akutt hepatitt B uten delta-agens med leverkoma|B16.2
+coma|B16.2
+leverbetennelse|B16.2
+smittsom gulsott|B16.2
+Akutt hepatitt B uten delta-agens og leverkoma|B16.9
+aktiv hepatitt b|B16.9
+coma|B16.9
+hepatitt b|B16.9
+leverbetennelse|B16.9
+smittsom gulsott|B16.9
+Annen akutt virushepatitt|B17
+leverbetennelse|B17
+smittsom gulsott|B17
+virusleverbetennelse|B17
+Akutt delta(super)infeksjon hos bærer av hepatitt B|B17.0
+leverbetennelse|B17.0
+smittsom gulsott|B17.0
+Akutt hepatitt C|B17.1
+aktiv c-hepatitt|B17.1
+c-hepatitt|B17.1
+hepatitt c|B17.1
+leverbetennelse|B17.1
+smittsom gulsott|B17.1
+Akutt hepatitt E|B17.2
+calici virushepatitt|B17.2
+leverbetennelse|B17.2
+smittsom gulsott|B17.2
+Annen spesifisert akutt virushepatitt|B17.8
+leverbetennelse|B17.8
+smittsom gulsott|B17.8
+virusleverbetennelse|B17.8
+Akutt uspesifisert virushepatitt|B17.9
+leverbetennelse|B17.9
+smittsom gulsott|B17.9
+virusleverbetennelse|B17.9
+Kronisk virushepatitt|B18
+leverbetennelse|B18
+smittsom gulsott|B18
+virusleverbetennelse|B18
+Kronisk virushepatitt B med delta-agens|B18.0
+leverbetennelse|B18.0
+smittsom gulsott|B18.0
+virusleverbetennelse|B18.0
+Kronisk virushepatitt B uten delta-agens|B18.1
+leverbetennelse|B18.1
+smittsom gulsott|B18.1
+virusleverbetennelse|B18.1
+Kronisk virushepatitt C|B18.2
+leverbetennelse|B18.2
+smittsom gulsott|B18.2
+virusleverbetennelse|B18.2
+Annen spesifisert kronisk virushepatitt|B18.8
+leverbetennelse|B18.8
+smittsom gulsott|B18.8
+virusleverbetennelse|B18.8
+Uspesifisert kronisk virushepatitt|B18.9
+leverbetennelse|B18.9
+smittsom gulsott|B18.9
+virusleverbetennelse|B18.9
+Uspesifisert virushepatitt|B19
+leverbetennelse|B19
+smittsom gulsott|B19
+virusleverbetennelse|B19
+Uspesifisert virushepatitt med leverkoma|B19.0
+coma|B19.0
+leverbetennelse|B19.0
+smittsom gulsott|B19.0
+virusleverbetennelse|B19.0
+Uspesifisert virushepatitt uten leverkoma|B19.9
+coma|B19.9
+leverbetennelse|B19.9
+smittsom gulsott|B19.9
+virushepatitt|B19.9
+virusleverbetennelse|B19.9
+Humant immunsviktvirus-sykdom [hiv-sykdom] , med infeksjonssykdommer og parasittsykdommer som følge|B20
+aids|B20
+las|B20
+Humant immunsviktvirus-sykdom [hiv-sykdom]|B20-B24
+las|B20-B24
+Hiv-sykdom med mykobakterieinfeksjon|B20.0
+las|B20.0
+Hiv-sykdom med andre bakterieinfeksjoner|B20.1
+las|B20.1
+Hiv-sykdom med cytomegalovirussykdom|B20.2
+las|B20.2
+Hiv-sykdom med andre virusinfeksjoner|B20.3
+las|B20.3
+Hiv-sykdom med candidainfeksjon|B20.4
+las|B20.4
+Hiv-sykdom med andre soppsykdommer|B20.5
+las|B20.5
+mykose|B20.5
+Hiv-sykdom med pneumoni som skyldes Pneumocystis jirovecii|B20.6
+las|B20.6
+lungebetennelse|B20.6
+Hiv-sykdom med flere infeksjoner|B20.7
+las|B20.7
+Hiv-sykdom med andre spesifiserte infeksjons- og parasittsykdommer|B20.8
+las|B20.8
+Hiv-sykdom med uspesifisert infeksjons- eller parasittsykdom|B20.9
+las|B20.9
+Humant immunsviktvirus-sykdom [hiv-sykdom], med ondartede svulster som følge|B21
+aids|B21
+las|B21
+tumor|B21
+Hiv-sykdom med Kaposis sarkom|B21.0
+las|B21.0
+sarcoma kaposi|B21.0
+Hiv-sykdom med Burkitt lymfom|B21.1
+las|B21.1
+Hiv-sykdom med andre typer non-Hodgkin lymfom|B21.2
+las|B21.2
+Hiv-sykdom med andre ondartede svulster i lymfoid, hematopoetisk og beslektet vev|B21.3
+las|B21.3
+tumor|B21.3
+Hiv-sykdom med flere ondartede svulster|B21.7
+las|B21.7
+tumor|B21.7
+Hiv-sykdom med andre spesifiserte ondartede svulster|B21.8
+las|B21.8
+tumor|B21.8
+Hiv-sykdom med uspesifisert ondartet svulst|B21.9
+las|B21.9
+malign|B21.9
+tumor|B21.9
+Humant immunsviktvirus-sykdom [hiv-sykdom], med andre spesifiserte sykdommer som følge|B22
+aids|B22
+las|B22
+Hiv-sykdom med encefalopati|B22.0
+encephalopathia|B22.0
+hiv-encefalopati|B22.0
+hjerneskade|B22.0
+las|B22.0
+Hiv-sykdom med lymfoid interstitiell pneumonitt|B22.1
+las|B22.1
+lungebetennelse|B22.1
+Hiv-sykdom med avmagringssyndrom|B22.2
+aids wasting syndrome|B22.2
+las|B22.2
+Hiv-sykdom med flere sykdommer, klassifisert annet sted, som følge|B22.7
+las|B22.7
+Humant immunsviktvirus-sykdom [hiv-sykdom], med andre tilstander som følge|B23
+aids|B23
+las|B23
+Akutt hiv-infeksjonssyndrom|B23.0
+las|B23.0
+Hiv-sykdom med (vedvarende) generalisert lymfadenopati|B23.1
+las|B23.1
+Hiv-sykdom med hematologiske og immunologiske abnormiteter, ikke klassifisert annet sted|B23.2
+las|B23.2
+Hiv-sykdom med andre spesifiserte tilstander som følge|B23.8
+las|B23.8
+Uspesifisert humant immunsviktvirus-sykdom [hiv-sykdom]|B24
+aids|B24
+ervervet immunsvikt|B24
+ervervet immunsviktsykdom|B24
+ervervet immunsvikttilstand|B24
+hiv|B24
+hiv-infeksjon|B24
+humant immunsviktvirus|B24
+las|B24
+Cytomegalovirussykdom|B25
+Andre virussykdommer|B25-B34
+Cytomegaloviruspneumonitt (J17.1*)|B25.0†
+cmv-pneumoni|B25.0†
+lungebetennelse|B25.0†
+viruslungebetennelse|B25.0†
+Cytomegalovirushepatitt (K77.0*)|B25.1†
+leverbetennelse|B25.1†
+smittsom gulsott|B25.1†
+virusleverbetennelse|B25.1†
+Cytomegaloviruspankreatitt (K87.1*)|B25.2†
+betennelse i bukspyttkjertel|B25.2†
+pancreatitis|B25.2†
+pancreatitt|B25.2†
+Andre spesifiserte cytomegalovirussykdommer|B25.8
+cmv-encefalitt|B25.8
+Uspesifisert cytomegalovirussykdom|B25.9
+cmv|B25.9
+cmv-infeksjon|B25.9
+cytomegalovirusinfeksjon|B25.9
+Kusma (parotitis epidemica)|B26
+parotitis epidemica|B26
+Kusmaorkitt (N51.1*)|B26.0†
+parotitis epidemica|B26.0†
+testikkelbetennelse|B26.0†
+Kusmameningitt (G02.0*)|B26.1†
+hjernehinnebetennelse|B26.1†
+parotitis epidemica|B26.1†
+Kusmaencefalitt (G05.1*)|B26.2†
+betennelse i hjerne|B26.2†
+encephalitis|B26.2†
+hjernebetennelse|B26.2†
+parotitis epidemica|B26.2†
+Kusmapankreatitt (K87.1*)|B26.3†
+betennelse i bukspyttkjertel|B26.3†
+pancreatitis|B26.3†
+pancreatitt|B26.3†
+parotitis epidemica|B26.3†
+Kusma med andre komplikasjoner|B26.8
+parotitis epidemica|B26.8
+Kusma uten komplikasjoner|B26.9
+parotitis epidemica|B26.9
+Mononukleose (mononucleosis infectiosa)|B27
+kyssesyke|B27
+Gammaherpesvirusmononukleose|B27.0
+kyssesyke|B27.0
+Cytomegalovirusmononukleose|B27.1
+kyssesyke|B27.1
+Annen spesifisert mononukleose|B27.8
+kyssesyke|B27.8
+Uspesifisert mononukleose|B27.9
+kyssesyke|B27.9
+Viruskonjunktivitt (conjuntivitis viralis)|B30
+conjunctivitis|B30
+conjunctivitis viralis|B30
+conjunctivitt|B30
+øyekatarr|B30
+Keratokonjunktivitt  som skyldes adenovirus (H19.2*)|B30.0†
+conjunctivitis|B30.0†
+conjunctivitt|B30.0†
+keratoconjunctivitt|B30.0†
+øyekatarr|B30.0†
+Konjunktivitt  som skyldes adenovirus (H13.1*)|B30.1†
+conjunctivitis|B30.1†
+conjunctivitt|B30.1†
+øyekatarr|B30.1†
+Virus-faryngokonjunktivitt|B30.2
+conjunctivitis|B30.2
+conjunctivitt|B30.2
+øyekatarr|B30.2
+Akutt epidemisk hemoragisk  konjunktivitt  (enteroviral) (H13.1*)|B30.3†
+conjunctivitis|B30.3†
+conjunctivitt|B30.3†
+haemorrhagisk|B30.3†
+hemorragisk|B30.3†
+hemorrhagisk|B30.3†
+øyekatarr|B30.3†
+Annen spesifisert viruskonjunktivitt (H13.1*)|B30.8†
+conjunctivitis|B30.8†
+conjunctivitis viralis|B30.8†
+conjunctivitt|B30.8†
+øyekatarr|B30.8†
+Uspesifisert viruskonjunktivitt|B30.9
+conjunctivitis|B30.9
+conjunctivitis viralis|B30.9
+conjunctivitt|B30.9
+øyekatarr|B30.9
+Andre virussykdommer, ikke klassifisert annet sted|B33
+Epidemisk myalgi (myalgia epidemica)(pleurodynia epidemica)|B33.0
+myoser|B33.0
+«Ross River»-sykdom|B33.1
+Viruskarditt|B33.2
+carditt|B33.2
+Retrovirusinfeksjoner, ikke klassifisert annet sted|B33.3
+Hantavirus (kardio)-pulmonalt syndrom [HPS][HCPS](J17.1*)|B33.4†
+lunge|B33.4†
+Andre spesifiserte virussykdommer|B33.8
+Virusinfeksjon med uspesifisert lokalisasjon|B34
+Adenovirusinfeksjon med uspesifisert lokalisasjon|B34.0
+Enterovirusinfeksjon med uspesifisert lokalisasjon|B34.1
+Coronavirusinfeksjon med uspesifisert lokalisasjon|B34.2
+Parvovirusinfeksjon med uspesifisert lokalisasjon|B34.3
+Papovavirusinfeksjon med uspesifisert lokalisasjon|B34.4
+Andre virusinfeksjoner med uspesifisert lokalisasjon|B34.8
+Uspesifisert virusinfeksjon|B34.9
+virose|B34.9
+virusinfeksjon|B34.9
+virussykdom|B34.9
+Hudsoppsykdom|B35
+cutan|B35
+kutan|B35
+mykose|B35
+Soppsykdommer|B35-B49
+mykose|B35-B49
+Skjeggsopp (tinea barbae) og hodebunnssopp (tinea capitis)|B35.0
+Neglesopp (tinea unguium)|B35.1
+Håndsopp (tinea manus)|B35.2
+Fotsopp (tinea pedis)|B35.3
+Kroppssopp (tinea corporis)|B35.4
+tinea corporis|B35.4
+Kronisk kroppssopp (tinea imbricata)|B35.5
+tinea corporis|B35.5
+Lyske- og skrittsopp (tinea cruris)|B35.6
+Andre spesifiserte hudsoppsykdommer|B35.8
+cutan|B35.8
+kutan|B35.8
+mykose|B35.8
+Uspesifisert hudsoppsykdom|B35.9
+cutan|B35.9
+kutan|B35.9
+mykose|B35.9
+Andre overfladiske soppsykdommer|B36
+mykose|B36
+Pityriasis versicolor|B36.0
+Tinea nigra|B36.1
+Tinea blanca|B36.2
+Svart piedra|B36.3
+Andre spesifiserte overfladiske soppsykdommer|B36.8
+mykose|B36.8
+Uspesifisert overfladisk soppsykdom|B36.9
+mykose|B36.9
+Candidainfeksjon|B37
+Candidastomatitt|B37.0
+candidainfeksjon i munnen|B37.0
+munnbetennelse|B37.0
+soppinfeksjon i munnen|B37.0
+stomatitis|B37.0
+Candidainfeksjon i lunger|B37.1
+Candidainfeksjon på hud og negler|B37.2
+cutan|B37.2
+kutan|B37.2
+Candidainfeksjon i ytre kvinnelige kjønnsorganer og skjede (N77.1*)|B37.3†
+Candidainfeksjon i kjønnsorganer og urinveier med annen lokalisasjon|B37.4†
+Candidameningitt (G02.1*)|B37.5†
+hjernehinnebetennelse|B37.5†
+Candidaendokarditt (I39.8*)|B37.6†
+betennelse i hjertets indre cellelag|B37.6†
+candida endokarditt|B37.6†
+carditt|B37.6†
+endocard|B37.6†
+endocarditis|B37.6†
+endocarditt|B37.6†
+Candidasepsis|B37.7
+blodforgiftning|B37.7
+candida sepsis|B37.7
+candidasepsis|B37.7
+gjærsoppsepsis|B37.7
+Candidainfeksjon med annen spesifisert lokalisasjon|B37.8
+candida albicans-infeksjon i tarmen|B37.8
+candida encefalitt|B37.8
+candidaøsofagitt|B37.8
+disseminert candidainfeksjon|B37.8
+soppinfeksjon i spiserøret|B37.8
+Uspesifisert candidainfeksjon|B37.9
+candida albicans|B37.9
+candidainfeksjon|B37.9
+candidiasis|B37.9
+candidose|B37.9
+gjærsoppinfeksjon|B37.9
+Koksidioidomykose (coccidioidomycosis)|B38
+californiasyke|B38
+coccidioidomycosis|B38
+coccidioidomykose|B38
+valley-feber|B38
+Akutt pulmonal koksidioidomykose|B38.0
+californiasyke|B38.0
+coccidioidomycosis|B38.0
+coccidioidomykose|B38.0
+lunge|B38.0
+valley-feber|B38.0
+Kronisk pulmonal koksidioidomykose|B38.1
+californiasyke|B38.1
+coccidioidomycosis|B38.1
+coccidioidomykose|B38.1
+lunge|B38.1
+valley-feber|B38.1
+Uspesifisert pulmonal koksidioidomykose|B38.2
+californiasyke|B38.2
+coccidioidomycosis|B38.2
+coccidioidomykose|B38.2
+lunge|B38.2
+valley-feber|B38.2
+Kutan koksidioidomykose|B38.3
+californiasyke|B38.3
+coccidioidomycosis|B38.3
+coccidioidomykose|B38.3
+valley-feber|B38.3
+Koksidioidomykosemeningitt (G02.1*)|B38.4†
+californiasyke|B38.4†
+coccidioidomycosis|B38.4†
+coccidioidomykose|B38.4†
+hjernehinnebetennelse|B38.4†
+valley-feber|B38.4†
+Disseminert koksidioidomykose|B38.7
+californiasyke|B38.7
+coccidioidomycosis|B38.7
+coccidioidomykose|B38.7
+valley-feber|B38.7
+Andre spesifiserte former for koksidioidomykose|B38.8
+californiasyke|B38.8
+coccidioidomycosis|B38.8
+coccidioidomykose|B38.8
+valley-feber|B38.8
+Uspesifisert koksidioidomykose|B38.9
+californiasyke|B38.9
+coccidioidomycosis|B38.9
+coccidioidomykose|B38.9
+valley-feber|B38.9
+Histoplasmose (histoplasmosis)|B39
+darlings sykdom|B39
+histoplasmosis|B39
+Akutt pulmonal histoplasmose|B39.0
+darlings sykdom|B39.0
+histoplasmosis|B39.0
+lunge|B39.0
+Kronisk pulmonal histoplasmose|B39.1
+darlings sykdom|B39.1
+histoplasmosis|B39.1
+lunge|B39.1
+Uspesifisert pulmonal histoplasmose|B39.2
+darlings sykdom|B39.2
+histoplasmosis|B39.2
+lunge|B39.2
+Disseminert histoplasmose|B39.3
+darlings sykdom|B39.3
+histoplasmosis|B39.3
+Uspesifisert histoplasmose som skyldes Histoplasma capsulatum|B39.4
+darlings sykdom|B39.4
+histoplasmosis|B39.4
+Histoplasmose som skyldes Histoplasma duboisii|B39.5
+darlings sykdom|B39.5
+histoplasmosis|B39.5
+Uspesifisert histoplasmose|B39.9
+darlings sykdom|B39.9
+histoplasmosis|B39.9
+Blastomykose (blastomycosis)|B40
+blastomycosis|B40
+Akutt pulmonal blastomykose|B40.0
+blastomycosis|B40.0
+lunge|B40.0
+Kronisk pulmonal blastomykose|B40.1
+blastomycosis|B40.1
+lunge|B40.1
+Uspesifisert pulmonal blastomykose|B40.2
+blastomycosis|B40.2
+lunge|B40.2
+Kutan blastomykose|B40.3
+blastomycosis|B40.3
+Disseminert blastomykose|B40.7
+blastomycosis|B40.7
+Andre spesifiserte former for blastomykose|B40.8
+blastomycosis|B40.8
+Uspesifisert blastomykose|B40.9
+blastomycosis|B40.9
+Parakoksidioidomykose (paracoccidioidomycosis)|B41
+californiasyke|B41
+coccidioidomycosis|B41
+coccidioidomykose|B41
+paracoxidioidomycosis|B41
+valley-feber|B41
+Pulmonal parakoksidioidomykose|B41.0
+californiasyke|B41.0
+coccidioidomycosis|B41.0
+coccidioidomykose|B41.0
+lunge|B41.0
+paracoxidioidomycosis|B41.0
+valley-feber|B41.0
+Disseminert parakoksidioidomykose|B41.7
+californiasyke|B41.7
+coccidioidomycosis|B41.7
+coccidioidomykose|B41.7
+paracoxidioidomycosis|B41.7
+valley-feber|B41.7
+Andre spesifiserte former for parakoksidioidomykose|B41.8
+californiasyke|B41.8
+coccidioidomycosis|B41.8
+coccidioidomykose|B41.8
+paracoxidioidomycosis|B41.8
+valley-feber|B41.8
+Uspesifisert parakoksidioidomykose|B41.9
+californiasyke|B41.9
+coccidioidomycosis|B41.9
+coccidioidomykose|B41.9
+paracoxidioidomycosis|B41.9
+valley-feber|B41.9
+Sporotrikose (sporotrichosis)|B42
+sporotrichosis|B42
+Pulmonal sporotrikose (J99.8*)|B42.0†
+lunge|B42.0†
+sporotrichosis|B42.0†
+Lymfokutan sporotrikose|B42.1
+sporotrichosis|B42.1
+Disseminert sporotrikose|B42.7
+sporotrichosis|B42.7
+Andre spesifiserte former for sporotrikose|B42.8
+sporotrichosis|B42.8
+Uspesifisert sporotrikose|B42.9
+sporotrichosis|B42.9
+Kromomykose (chromomycosis) og feomykotisk abscess|B43
+chromomycosis|B43
+Kutan kromomykose|B43.0
+chromomycosis|B43.0
+Feomykotisk hjerneabscess|B43.1
+Subkutan feomykotisk abscess og cyste|B43.2
+Andre spesifiserte former for kromomykose|B43.8
+chromomycosis|B43.8
+Uspesifisert kromomykose|B43.9
+chromomycosis|B43.9
+Aspergillose (aspergillosis)|B44
+aspergillosis|B44
+Invasiv pulmonal aspergillose|B44.0
+aspergillosis|B44.0
+invasiv lungeaspergillose|B44.0
+lunge|B44.0
+Annen pulmonal aspergillose|B44.1
+aspergillosis|B44.1
+aspergilluspneumoni|B44.1
+bronkopulmenal aspergillose|B44.1
+lunge|B44.1
+lungeaspergillose|B44.1
+Tonsillær aspergillose|B44.2
+aspergillosis|B44.2
+Disseminert aspergillose|B44.7
+aspergillosis|B44.7
+disseminert aspargillose|B44.7
+Andre spesifiserte former for aspergillose|B44.8
+aspergillosis|B44.8
+Uspesifisert aspergillose|B44.9
+aspergillom|B44.9
+aspergillose|B44.9
+aspergillosis|B44.9
+aspergillus fumigatus|B44.9
+aspergillusinfeksjon|B44.9
+Kryptokokkose (cryptococcosis)|B45
+cryptococcose|B45
+cryptococcosis|B45
+Pulmonal kryptokokkose|B45.0
+cryptococcose|B45.0
+cryptococcosis|B45.0
+lunge|B45.0
+Cerebral kryptokokkose|B45.1
+cryptococcose|B45.1
+cryptococcosis|B45.1
+kryptokokkmeningitt|B45.1
+Kutan kryptokokkose|B45.2
+cryptococcose|B45.2
+cryptococcosis|B45.2
+Ossøs kryptokokkose|B45.3
+cryptococcose|B45.3
+cryptococcosis|B45.3
+Disseminert kryptokokkose|B45.7
+cryptococcose|B45.7
+cryptococcosis|B45.7
+Andre spesifiserte former for kryptokokkose|B45.8
+cryptococcose|B45.8
+cryptococcosis|B45.8
+Uspesifisert kryptokokkose|B45.9
+cryptococcose|B45.9
+cryptococcosis|B45.9
+Zygomykose (zygomycosis)|B46
+zygomycose|B46
+zygomycosis|B46
+Pulmonal mucormykose|B46.0
+lunge|B46.0
+Rinocerebral mucormykose|B46.1
+rhino|B46.1
+Gastrointestinal mucormykose|B46.2
+Kutan mucormykose|B46.3
+Disseminert mucormykose|B46.4
+Uspesifisert mucormykose|B46.5
+Andre spesifiserte zygomykoser|B46.8
+zygomycose|B46.8
+zygomycosis|B46.8
+Uspesifisert zygomykose|B46.9
+zygomycose|B46.9
+zygomycosis|B46.9
+Mycetom|B47
+Eumycetom|B47.0
+Aktinomycetom|B47.1
+Uspesifisert mycetom|B47.9
+Andre soppsykdommer , ikke klassifisert annet sted|B48
+mykose|B48
+Lobomykose|B48.0
+Rinosporidiose|B48.1
+rhino|B48.1
+Allescheriasis|B48.2
+Geotrikose|B48.3
+Penicilliose|B48.4
+Opportunistiske soppsykdommer|B48.7
+mykose|B48.7
+Andre spesifiserte soppsykdommer|B48.8
+mykose|B48.8
+Uspesifisert soppsykdom|B49
+mykose|B49
+soppinfeksjon|B49
+soppinfeksjon i lunge|B49
+sopplungebetennelse|B49
+soppsepsis|B49
+Malaria som skyldes Plasmodium falciparum|B50
+Protozosykdommer|B50-B64
+Malaria som skyldes Plasmodium falciparum, med hjernekomplikasjoner|B50.0
+Annen spesifisert alvorlig og komplisert malaria som skyldes Plasmodium falciparum|B50.8
+Uspesifisert malaria som skyldes Plasmodium falciparum|B50.9
+Malaria som skyldes Plasmodium vivax|B51
+malaria tertiana|B51
+tertianfeber|B51
+Malaria som skyldes Plasmodium vivax, med miltruptur|B51.0
+malaria tertiana|B51.0
+tertianfeber|B51.0
+Malaria som skyldes Plasmodium vivax, med andre komplikasjoner|B51.8
+malaria tertiana|B51.8
+tertianfeber|B51.8
+Malaria som skyldes Plasmodium vivax, uten komplikasjoner|B51.9
+malaria tertiana|B51.9
+tertianfeber|B51.9
+Malaria som skyldes Plasmodium malariae|B52
+kvartanfeber|B52
+malaria quartana|B52
+Malaria som skyldes Plasmodium malariae, med nefropati|B52.0
+kvartanfeber|B52.0
+malaria quartana|B52.0
+Malaria som skyldes Plasmodium malariae, med andre komplikasjoner|B52.8
+kvartanfeber|B52.8
+malaria quartana|B52.8
+Malaria som skyldes Plasmodium malariae, uten komplikasjoner|B52.9
+kvartanfeber|B52.9
+malaria quartana|B52.9
+Annen parasittologisk bekreftet malaria|B53
+Malaria som skyldes Plasmodium ovale|B53.0
+Apeplasmodiamalaria|B53.1
+Annen spesifisert parasittologisk bekreftet malaria, ikke klassifisert annet sted|B53.8
+Uspesifisert malaria|B54
+Leishmaniasis|B55
+Visceral leishmaniasis|B55.0
+Kutan leishmaniasis|B55.1
+Mukokutan leishmaniasis|B55.2
+Uspesifisert leishmaniasis|B55.9
+Afrikansk trypanosomiasis (trypanosomiasis africana)|B56
+Trypanosomiasis gambiensis|B56.0
+Trypanosomiasis rhodesiensis|B56.1
+Uspesifisert afrikansk trypanosomiasis|B56.9
+Chagas sykdom (trypanosomiasis americana)|B57
+trypanosomiasis americana|B57
+Akutt Chagas sykdom med hjerteaffeksjon (I41.2*, I98.1*)|B57.0†
+trypanosomiasis americana|B57.0†
+Akutt Chagas sykdom uten hjerteaffeksjon|B57.1
+trypanosomiasis americana|B57.1
+Chagas sykdom (kronisk) med hjerteaffeksjon (I41.2*, I98.1*)|B57.2†
+trypanosomiasis americana|B57.2†
+Chagas sykdom (kronisk) med fordøyelsessystemaffeksjon|B57.3
+trypanosomiasis americana|B57.3
+Chagas sykdom (kronisk) med nervesystemaffeksjon|B57.4
+trypanosomiasis americana|B57.4
+Chagas sykdom (kronisk) med annen organaffeksjon|B57.5
+trypanosomiasis americana|B57.5
+Toksoplasmose|B58
+toxoplasmose|B58
+Toksoplasma-okulopati|B58.0†
+toxoplasma|B58.0†
+Toksoplasmahepatitt (K77.0*)|B58.1†
+leverbetennelse|B58.1†
+smittsom gulsott|B58.1†
+toxoplasma|B58.1†
+Toksoplasmameningoencefalitt (G05.2*)|B58.2†
+betennelse i hjerne|B58.2†
+cerebral toksoplasmose|B58.2†
+encephalitis|B58.2†
+hjernebetennelse|B58.2†
+toxoplasma|B58.2†
+Pulmonal toksoplasmose (J17.3*)|B58.3†
+lunge|B58.3†
+toxoplasmose|B58.3†
+Toksoplasmose med annen spesifisert organaffeksjon|B58.8
+toxoplasmose|B58.8
+Uspesifisert toksoplasmose|B58.9
+toksoplasmose|B58.9
+toxoplasmose|B58.9
+Pneumocystose (J17.3*)|B59†
+pneumocystis carinii|B59†
+pneumocystis carinii-pneumoni|B59†
+pneumocystis cariniinfeksjon|B59†
+pneumocystis jiroveci|B59†
+pneumocystis jiroveci-pneumoni|B59†
+Andre protozosykdommer, ikke klassifisert annet sted|B60
+Babesiose|B60.0
+Akantamøbeinfeksjon|B60.1
+Naegleriainfeksjon|B60.2
+Andre spesifiserte protozosykdommer|B60.8
+Uspesifisert protozosykdom|B64
+Schistosomiasis [bilharzia]|B65
+bilharzia|B65
+Helmintoser|B65-B83
+Schistosomiasis som skyldes Schistosoma haematobium[urinblæreschistosomiasis]|B65.0
+bilharzia|B65.0
+Schistosomiasis som skyldes Schistosoma mansoni[tarmkanalschistosomiasis]|B65.1
+bilharzia|B65.1
+Schistosomiasis som skyldes Schistosoma japonicum|B65.2
+bilharzia|B65.2
+Cerkariedermatitt|B65.3
+dermatitis|B65.3
+eczema|B65.3
+enantem|B65.3
+utslett|B65.3
+Annen spesifisert schistosomiasis|B65.8
+bilharzia|B65.8
+Uspesifisert schistosomiasis|B65.9
+bilharzia|B65.9
+Andre ikteinfeksjoner|B66
+Opisthorchiasis|B66.0
+Clonorchiasis|B66.1
+Dicrocoeliasis|B66.2
+Fascioliasis|B66.3
+Paragonimiasis|B66.4
+Fasciolopsiasis|B66.5
+Andre spesifiserte ikteinfeksjoner|B66.8
+Uspesifisert ikteinfeksjon|B66.9
+Ekinokokkose (echinococcosis)|B67
+echinococcose|B67
+echinococcosis|B67
+Infeksjon i lever som skyldes Echinococcus granulosus|B67.0
+Infeksjon i lunger som skyldes Echinococcus granulosus|B67.1
+Infeksjon i ben som skyldes Echinococcus granulosus|B67.2
+bein|B67.2
+Infeksjon som skyldes Echinococcus granulosus, andre og multiple lokalisasjoner|B67.3
+Uspesifisert infeksjon som skyldes Echinococcus granulosus|B67.4
+Infeksjon i lever som skyldes Echinococcus multilocularis|B67.5
+Infeksjon som skyldes Echinococcus multilocularis, andre og multiple lokalisasjoner|B67.6
+Uspesifisert infeksjon som skyldes Echinococcus multilocularis|B67.7
+Uspesifisert ekinokokkose i lever|B67.8
+echinococcose|B67.8
+echinococcosis|B67.8
+Annen og uspesifisert ekinokokkose|B67.9
+echinococcose|B67.9
+echinococcosis|B67.9
+Taeniasis|B68
+Taeniasis som skyldes Taenia solium|B68.0
+Taeniasis som skyldes Taenia saginata|B68.1
+Uspesifisert taeniasis|B68.9
+Cysticerkose|B69
+blæreorminfeksjon|B69
+cysticerkinfeksjon|B69
+Cysticerkose i sentralnervesystemet|B69.0
+blæreorminfeksjon|B69.0
+cysticerkinfeksjon|B69.0
+Cysticerkose i øye|B69.1
+blæreorminfeksjon|B69.1
+cysticerkinfeksjon|B69.1
+Cysticerkose med annen spesifisert lokalisasjon|B69.8
+blæreorminfeksjon|B69.8
+cysticerkinfeksjon|B69.8
+Uspesifisert cysticerkose|B69.9
+blæreorminfeksjon|B69.9
+cysticerkinfeksjon|B69.9
+Diphyllobothriasis og sparganose|B70
+Diphyllobothriasis|B70.0
+Sparganose|B70.1
+Andre bendelorminfeksjoner|B71
+bein|B71
+cestodeinfeksjon|B71
+Hymenolepiasis|B71.0
+Dipylidiasis|B71.1
+Andre spesifiserte bendelorminfeksjoner|B71.8
+bein|B71.8
+cestodeinfeksjon|B71.8
+Uspesifisert bendelorminfeksjon|B71.9
+bein|B71.9
+cestodeinfeksjon|B71.9
+Dracunculiasis|B72
+Onkocerkiasis (onchocerciasis)|B73
+onchocercose|B73
+Filariasis|B74
+filariose|B74
+Filariasis som skyldes Wuchereria bancrofti|B74.0
+elefantiasis|B74.0
+filariose|B74.0
+Filariasis som skyldes Brugia malayi|B74.1
+filariose|B74.1
+Filariasis som skyldes Brugia timori|B74.2
+filariose|B74.2
+Loiasis|B74.3
+Mansonelliasis|B74.4
+Annen spesifisert filariasis|B74.8
+filariose|B74.8
+Uspesifisert filariasis|B74.9
+filariose|B74.9
+Trikinose (trichinosis)|B75
+Hakeormsykdommer|B76
+Ankylostomiasis|B76.0
+Necatoriasis|B76.1
+Andre spesifiserte hakeormsykdommer|B76.8
+Uspesifisert hakeormsykdom|B76.9
+Askariasis (ascariasis)|B77
+Askariasis med tarmkomplikasjoner|B77.0
+Askariasis med andre spesifiserte komplikasjoner|B77.8
+Uspesifisert askariasis|B77.9
+Strongyloidiasis|B78
+Strongyloidiasis i tarmkanalen|B78.0
+Kutan strongyloidiasis|B78.1
+Disseminert strongyloidiasis|B78.7
+Uspesifisert strongyloidiasis|B78.9
+Trikuriasis|B79
+Barneorminfeksjon (oxyuriasis)|B80
+Andre ormesykdommer i tarm, ikke klassifisert annet sted|B81
+Anisakiasis|B81.0
+Capillariasis i tarmkanalen|B81.1
+Trichostrongyliasis|B81.2
+Angiostrongyliasis i tarmkanalen|B81.3
+Blandede ormesykdommer i tarm|B81.4
+Andre spesifiserte ormesykdommer i tarm|B81.8
+Uspesifisert parasittisme i tarm|B82
+Uspesifisert ormesykdom i tarm|B82.0
+Uspesifisert parasittisme i tarm|B82.9
+Andre ormesykdommer|B83
+Visceral larva migrans|B83.0
+vandrelarve|B83.0
+vandrende larve|B83.0
+Gnathostomiasis|B83.1
+Angiostrongyliasis som skyldes Parastrongylus cantonensis|B83.2
+Syngamiasis|B83.3
+Innvendig hirudiniasis|B83.4
+igleangrep|B83.4
+Andre spesifiserte ormesykdommer|B83.8
+Uspesifisert ormesykdom|B83.9
+Pedikulose og ftiriasis|B85
+luseinfestasjon|B85
+Infestasjon av lus, midd og andre ektoparasitter|B85-B89
+ektoparasittangrep|B85-B89
+Pedikulose som skyldes Pediculus humanus capitis|B85.0
+luseinfestasjon|B85.0
+Pedikulose som skyldes Pediculus humanus corporis|B85.1
+luseinfestasjon|B85.1
+Uspesifisert pedikulose|B85.2
+luseinfestasjon|B85.2
+Ftiriasis|B85.3
+Blandet pedikulose og ftiriasis|B85.4
+luseinfestasjon|B85.4
+Skabb|B86
+Myiasis|B87
+Kutan myiasis|B87.0
+Myiasis i sår|B87.1
+ulcus|B87.1
+vulnus|B87.1
+Okulær myiasis|B87.2
+Nasofaryngeal myiasis|B87.3
+Myiasis i øre|B87.4
+Myiasis med annen spesifisert lokalisasjon|B87.8
+Uspesifisert myiasis|B87.9
+Andre infestasjoner|B88
+ektoparasittangrep|B88
+Annen middsykdom|B88.0
+Tungiasis [sandloppeinfestasjon]|B88.1
+ektoparasittangrep|B88.1
+Andre artropodeinfestasjoner|B88.2
+ektoparasittangrep|B88.2
+leddyr|B88.2
+Utvendig hirudiniasis|B88.3
+igleangrep|B88.3
+Andre spesifiserte infestasjoner|B88.8
+ektoparasittangrep|B88.8
+Uspesifisert infestasjon|B88.9
+ektoparasittangrep|B88.9
+Uspesifisert parasittsykdom|B89
+Følgetilstander  etter tuberkulose|B90
+sekveler|B90
+senfølge|B90
+sequele|B90
+tbc|B90
+Følgetilstander  etter infeksjonssykdommer og parasittsykdommer|B90-B94
+sekveler|B90-B94
+senfølge|B90-B94
+sequele|B90-B94
+Følgetilstander etter tuberkulose i sentralnervesystemet|B90.0
+sekveler|B90.0
+senfølge|B90.0
+sequele|B90.0
+tbc|B90.0
+Følgetilstander etter tuberkulose i kjønnsorganer og urinveier|B90.1
+sekveler|B90.1
+senfølge|B90.1
+sequele|B90.1
+tbc|B90.1
+Følgetilstander etter tuberkulose i ben og ledd|B90.2
+bein|B90.2
+sekveler|B90.2
+senfølge|B90.2
+sequele|B90.2
+tbc|B90.2
+Følgetilstander etter tuberkulose i andre spesifiserte organer|B90.8
+sekveler|B90.8
+senfølge|B90.8
+sequele|B90.8
+tbc|B90.8
+Følgetilstander etter tuberkulose i åndedrettsorganer og uspesifisert tuberkulose|B90.9
+gjennomgått lungetuberkulose|B90.9
+sekveler|B90.9
+senfølge|B90.9
+sequele|B90.9
+tbc|B90.9
+Følgetilstander  etter poliomyelitt|B91
+myelitis|B91
+postpoliosyndrom|B91
+ryggmargsbetennelse|B91
+sekveler|B91
+senfølge|B91
+sequele|B91
+Følgetilstander  etter lepra|B92
+hansens sykdom|B92
+sekveler|B92
+senfølge|B92
+sequele|B92
+spedalskhet|B92
+Følgetilstander etter andre og uspesifiserte infeksjonssykdommer og parasittsykdommer|B94
+sekveler|B94
+senfølge|B94
+sequele|B94
+Følgetilstander etter trakom|B94.0
+sekveler|B94.0
+senfølge|B94.0
+sequele|B94.0
+Følgetilstander etter virusencefalitt|B94.1
+betennelse i hjerne|B94.1
+encephalitis|B94.1
+hjernebetennelse|B94.1
+sekveler|B94.1
+senfølge|B94.1
+sequele|B94.1
+virushjernebetennelse|B94.1
+Følgetilstander etter virushepatitt|B94.2
+leverbetennelse|B94.2
+sekveler|B94.2
+senfølge|B94.2
+sequele|B94.2
+smittsom gulsott|B94.2
+virusleverbetennelse|B94.2
+Følgetilstander etter andre spesifiserte infeksjonssykdommer og parasittsykdommer|B94.8
+sekveler|B94.8
+senfølge|B94.8
+sequele|B94.8
+Følgetilstander etter uspesifisert infeksjonssykdom og parasittsykdom|B94.9
+postinfeksiøs asteni|B94.9
+sekveler|B94.9
+senfølge|B94.9
+sequele|B94.9
+Streptokokker  og stafylokokker  som årsak til sykdommer klassifisert i andre kapitler|B95
+stafylococc|B95
+streptococc|B95
+Bakterier, virus og andre infeksjonsfremkallende mikroorganismer|B95-B98
+Streptokokker, serogruppe A, som årsak til sykdommer klassifisert i andre kapitler|B95.0
+streptococc|B95.0
+Streptokokker, serogruppe B, som årsak til sykdommer klassifisert i andre kapitler|B95.1
+streptococc|B95.1
+Streptokokker, serogruppe D, som årsak til sykdommer klassifisert i andre kapitler|B95.2
+streptococc|B95.2
+Streptococcus pneumoniae som årsak til sykdommer klassifisert i andre kapitler|B95.3
+lungebetennelse|B95.3
+pneumokokker|B95.3
+Andre spesifiserte streptokokker som årsak til sykdommer klassifisert i andre kapitler|B95.4
+streptococc|B95.4
+Uspesifiserte streptokokker som årsak til sykdommer klassifisert i andre kapitler|B95.5
+streptococc|B95.5
+Staphylococcus aureus som årsak til sykdommer klassifisert i andre kapitler|B95.6
+gule stafylokokker|B95.6
+ssss|B95.6
+staphylococcus aureus|B95.6
+Andre spesifiserte stafylokokker som årsak til sykdommer klassifisert i andre kapitler|B95.7
+stafylococc|B95.7
+Uspesifiserte stafylokokker som årsak til sykdommer klassifisert i andre kapitler|B95.8
+stafylococc|B95.8
+Andre spesifiserte bakterier som årsak til sykdommer klassifisert i andre kapitler|B96
+Mycoplasma pneumoniae[M. pneumoniae] som årsak til sykdommer klassifisert i andre kapitler|B96.0
+lungebetennelse|B96.0
+Klebsiella pneumoniae[K. pneumoniae] som årsak til sykdommer klassifisert i andre kapitler|B96.1
+lungebetennelse|B96.1
+Escherichia coli[E. coli] som årsak til sykdommer klassifisert i andre kapitler|B96.2
+e coli|B96.2
+Haemophilus influenzae[H. influenzae] som årsak til sykdommer klassifisert i andre kapitler|B96.3
+Proteusgruppens mikroorganismer som årsak til sykdommer klassifisert i andre kapitler|B96.4
+Pseudomonas (aeruginosa) som årsak til sykdommer klassifisert i andre kapitler|B96.5
+mrsa|B96.5
+pseudomonas aeruginosa|B96.5
+Bacillus fragilis[B. fragilis] som årsak til sykdommer klassifisert i andre kapitler|B96.6
+Cl
