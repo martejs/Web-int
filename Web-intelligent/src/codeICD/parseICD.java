@@ -27,7 +27,7 @@ public class parseICD {
 			File fil = new File("ICD/icd10no.owl");
 			InputStreamReader is = new InputStreamReader(new FileInputStream(fil), "utf-8");
 			BufferedReader br = new BufferedReader(is);
-			BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("ICD.txt"), "UTF-8"));
+			BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("ICD/ICD.txt"), "UTF-8"));
 
 			while(br.ready()){
 				ArrayList<String> ord = new ArrayList<String>();
